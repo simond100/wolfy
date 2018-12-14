@@ -1,0 +1,1606 @@
+﻿Log file open, 12/10/18 21:57:55
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: wolfy
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.478133
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.186s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program files/Unreal/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.005s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.12.11-02.57.58:967][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.12.11-02.57.58:967][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.12.11-02.57.58:967][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.11-02.57.58:967][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.12.11-02.57.58:967][  0]LogConfig: Setting CVar [[r.CustomDepth:3]]
+[2018.12.11-02.57.58:967][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.11-02.57.58:967][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.11-02.57.58:967][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.12.11-02.57.58:967][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.12.11-02.57.58:967][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.12.11-02.57.58:967][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.12.11-02.57.58:967][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.12.11-02.57.58:967][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.12.11-02.57.58:967][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.12.11-02.57.58:967][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.12.11-02.57.58:967][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.12.11-02.57.58:967][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.12.11-02.57.58:967][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.12.11-02.57.58:967][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.12.11-02.57.58:967][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.12.11-02.57.58:967][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.11-02.57.58:967][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.12.11-02.57.58:967][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.12.11-02.57.58:967][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.12.11-02.57.58:967][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.12.11-02.57.58:967][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.12.11-02.57.58:967][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.12.11-02.57.58:967][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.12.11-02.57.58:967][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.12.11-02.57.58:967][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.12.11-02.57.58:967][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.12.11-02.57.58:967][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.12.11-02.57.58:967][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.12.11-02.57.58:967][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.12.11-02.57.58:967][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.12.11-02.57.58:967][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.11-02.57.58:967][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.11-02.57.58:969][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.11-02.57.58:969][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.11-02.57.58:969][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.11-02.57.58:969][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.11-02.57.58:969][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.11-02.57.58:969][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.11-02.57.58:969][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.11-02.57.58:969][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.11-02.57.58:969][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.11-02.57.58:969][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.11-02.57.58:969][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.11-02.57.58:969][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.11-02.57.58:970][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.11-02.57.58:970][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.11-02.57.58:970][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.11-02.57.59:001][  0]LogHAL: Display: Platform has ~ 16 GB [17055186944 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.11-02.57.59:001][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.12.11-02.57.59:001][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.11-02.57.59:001][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.11-02.57.59:001][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.11-02.57.59:001][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.11-02.57.59:001][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.11-02.57.59:001][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.11-02.57.59:001][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.11-02.57.59:001][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.11-02.57.59:001][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.11-02.57.59:001][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.11-02.57.59:001][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.11-02.57.59:001][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.11-02.57.59:001][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.11-02.57.59:001][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.11-02.57.59:001][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.11-02.57.59:001][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.11-02.57.59:001][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.11-02.57.59:001][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.11-02.57.59:001][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.11-02.57.59:001][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.11-02.57.59:001][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.11-02.57.59:001][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.11-02.57.59:001][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.11-02.57.59:001][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.11-02.57.59:001][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.11-02.57.59:001][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.11-02.57.59:001][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.11-02.57.59:001][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.11-02.57.59:001][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.11-02.57.59:001][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.11-02.57.59:001][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.11-02.57.59:001][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.11-02.57.59:001][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.11-02.57.59:001][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.11-02.57.59:001][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.11-02.57.59:001][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.11-02.57.59:001][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.11-02.57.59:001][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.11-02.57.59:001][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.11-02.57.59:001][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.11-02.57.59:002][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.11-02.57.59:002][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.11-02.57.59:002][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.11-02.57.59:002][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.12.11-02.57.59:007][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.12.11-02.57.59:007][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.11-02.57.59:007][  0]LogInit: Computer: LAPTOP-6ORP0FSQ
+[2018.12.11-02.57.59:007][  0]LogInit: User: simon
+[2018.12.11-02.57.59:007][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.11-02.57.59:007][  0]LogInit: High frequency timer resolution =2.742187 MHz
+[2018.12.11-02.57.59:007][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.12.11-02.57.59:007][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.11-02.57.59:007][  0]LogMemory: Process Physical Memory: 104.44 MB used, 104.44 MB peak
+[2018.12.11-02.57.59:007][  0]LogMemory: Process Virtual Memory: 93.77 MB used, 93.77 MB peak
+[2018.12.11-02.57.59:007][  0]LogMemory: Physical Memory: 5470.09 MB used,  10795.00 MB free, 16265.09 MB total
+[2018.12.11-02.57.59:007][  0]LogMemory: Virtual Memory: 4655.16 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2018.12.11-02.57.59:934][  0]LogInit: Using OS detected language (en-US).
+[2018.12.11-02.57.59:934][  0]LogInit: Using OS detected locale (en-CA).
+[2018.12.11-02.58.00:045][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.11-02.58.02:068][  0]LogStreaming: Display: Took  2.135s to InitEngineTextLocalization.
+[2018.12.11-02.58.02:068][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.11-02.58.02:749][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.11-02.58.02:749][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.11-02.58.05:712][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.11-02.58.05:712][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.11-02.58.05:810][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.12.11-02.58.05:810][  0]LogD3D11RHI:       4021/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.12.11-02.58.05:818][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.12.11-02.58.05:819][  0]LogD3D11RHI:       128/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.12.11-02.58.05:820][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.11-02.58.05:820][  0]LogD3D11RHI:       0/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.11-02.58.05:820][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.11-02.58.05:849][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.11-02.58.05:849][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2018.12.11-02.58.05:849][  0]LogWindows: EnumDisplayDevices:
+[2018.12.11-02.58.05:849][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.12.11-02.58.05:850][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.12.11-02.58.05:850][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.12.11-02.58.05:850][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.12.11-02.58.05:850][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.12.11-02.58.05:850][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.12.11-02.58.05:850][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.12.11-02.58.05:850][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2018.12.11-02.58.05:899][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.11-02.58.05:944][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.11-02.58.06:937][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.11-02.58.07:009][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.11-02.58.07:030][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.11-02.58.07:053][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.11-02.58.07:125][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.11-02.58.07:168][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.11-02.58.07:211][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.11-02.58.07:258][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.11-02.58.07:315][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.11-02.58.07:511][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-02.58.07:511][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-02.58.07:511][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-02.58.07:511][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-02.58.07:511][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-02.58.07:511][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-02.58.07:511][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-02.58.07:511][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-02.58.07:511][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-02.58.07:511][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-02.58.07:511][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-02.58.07:511][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-02.58.07:511][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-02.58.07:511][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-02.58.07:511][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-02.58.07:511][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-02.58.07:511][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-02.58.07:511][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.11-02.58.07:566][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.11-02.58.07:759][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.11-02.58.07:759][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.11-02.58.07:790][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.11-02.58.07:790][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.11-02.58.07:852][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.11-02.58.07:874][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.11-02.58.07:897][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.11-02.58.07:928][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.11-02.58.08:023][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.11-02.58.08:023][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.11-02.58.08:023][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.11-02.58.09:092][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Intermediate/Shaders/WorkingDirectory/17496/).
+[2018.12.11-02.58.09:092][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/simon/AppData/Local/Temp/UnrealShaderWorkingDir/FCA22EF3488803AF6EA35B8013BF35FD/'.
+[2018.12.11-02.58.09:093][  0]LogXGEController: Cleaning working directory: C:/Users/simon/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.11-02.58.09:094][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.11-02.58.09:094][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.11-02.58.09:094][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.11-02.58.11:663][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.11-02.58.11:862][  0]LogDerivedDataCache: Loaded boot cache 0.20s 71MB C:/Users/simon/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.11-02.58.11:862][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/simon/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.12.11-02.58.11:862][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.11-02.58.11:862][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.11-02.58.11:862][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.11-02.58.11:862][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.11-02.58.11:955][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.11-02.58.11:955][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.11-02.58.11:955][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2018.12.11-02.58.11:969][  0]LogDerivedDataCache: Using Local data cache path C:/Users/simon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.11-02.58.11:969][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.11-02.58.11:969][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.11-02.58.11:992][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.11-02.58.11:993][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.11-02.58.12:142][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.11-02.58.12:870][  0]LogAssetRegistry: FAssetRegistry took 0.0329 seconds to start up
+[2018.12.11-02.58.13:220][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.11-02.58.15:069][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.11-02.58.15:464][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.11-02.58.15:472][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.11-02.58.15:474][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.11-02.58.15:474][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.11-02.58.15:716][  0]LogNetVersion: wolfy 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1840138777)
+[2018.12.11-02.58.17:932][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.119880 seconds
+[2018.12.11-02.58.17:939][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.12.11-02.58.17:939][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2018.12.11-02.58.17:939][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.11-02.58.27:797][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.11-02.58.27:871][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.11-02.58.29:620][  0]SourceControl: Source control is disabled
+[2018.12.11-02.58.29:621][  0]SourceControl: Source control is disabled
+[2018.12.11-02.58.29:710][  0]SourceControl: Source control is disabled
+[2018.12.11-02.58.29:826][  0]SourceControl: Source control is disabled
+[2018.12.11-02.58.31:491][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.11-02.58.31:775][  0]LogOcInput: OculusInput pre-init called
+[2018.12.11-02.58.32:178][  0]LogEngine: Initializing Engine...
+[2018.12.11-02.58.32:178][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.11-02.58.32:179][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.11-02.58.32:180][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.11-02.58.32:180][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.11-02.58.32:180][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.11-02.58.33:161][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.11-02.58.33:344][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.11-02.58.33:370][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.11-02.58.33:559][  0]LogInit: FAudioDevice initialized.
+[2018.12.11-02.58.33:560][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.11-02.58.33:654][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/simon/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.11-02.58.33:666][  0]LogInit: Texture streaming: Enabled
+[2018.12.11-02.58.33:788][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.11-02.58.33:788][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={283DE0BC-4187-E0C6-A339-679A17A0FA07}
+[2018.12.11-02.58.33:821][  0]LogInit: Transaction tracking system initialized
+[2018.12.11-02.58.33:959][  0]BlueprintLog: New page: Editor Load
+[2018.12.11-02.58.34:936][  0]LocalizationService: Localization service is disabled
+[2018.12.11-02.58.38:230][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.11-02.58.38:231][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.11-02.58.38:231][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.11-02.58.38:231][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.11-02.58.38:231][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.11-02.58.38:231][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.11-02.58.38:231][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.11-02.58.38:406][  0]LogFileCache: Scanning file cache for directory 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/' took 0.03s
+[2018.12.11-02.58.40:315][  0]SourceControl: Source control is disabled
+[2018.12.11-02.58.40:316][  0]Cmd: MAP LOAD FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.11-02.58.40:321][  0]LightingResults: New page: Lighting Build
+[2018.12.11-02.58.40:323][  0]MapCheck: New page: Map Check
+[2018.12.11-02.58.40:323][  0]LightingResults: New page: Lighting Build
+[2018.12.11-02.58.41:177][  0]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.11-02.58.41:177][  0]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.11-02.58.41:265][  0]LogBlueprint: Warning: [Compiler wolfChar] [0055.29] Compile of wolfChar successful, but with 2 Warning(s) [in 191 ms] (/Game/ThirdPersonBP/Blueprints/wolfChar.wolfChar)
+[2018.12.11-02.58.42:648][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.11-02.58.42:893][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.11-02.58.42:921][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.11-02.58.42:921][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.135ms to complete.
+[2018.12.11-02.58.42:921][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 2.605
+[2018.12.11-02.58.43:134][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-02.58.43:142][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-02.58.43:149][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-02.58.43:158][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-02.58.43:226][  0]LogCollectionManager: Loaded 0 collections in 0.000914 seconds
+[2018.12.11-02.58.43:243][  0]LogFileCache: Scanning file cache for directory 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Collections/' took 0.01s
+[2018.12.11-02.58.43:243][  0]LogFileCache: Scanning file cache for directory 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/Developers/simon/Collections/' took 0.00s
+[2018.12.11-02.58.43:243][  0]LogFileCache: Scanning file cache for directory 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/Collections/' took 0.00s
+[2018.12.11-02.58.43:243][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.11-02.58.43:252][  0]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2651 classes and 620 folders.
+[2018.12.11-02.58.43:256][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.11-02.58.43:331][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-02.58.43:356][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-02.58.43:382][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-02.58.43:388][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-02.58.43:394][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-02.58.43:400][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-02.58.43:406][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-02.58.43:412][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-02.58.43:420][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-02.58.43:428][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-02.58.43:434][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-02.58.43:440][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-02.58.43:447][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-02.58.43:454][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-02.58.43:460][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-02.58.43:466][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-02.58.43:506][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-02.58.43:513][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-02.58.43:518][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-02.58.43:525][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-02.58.43:575][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-02.58.43:585][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-02.58.43:592][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-02.58.43:598][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-02.58.43:605][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-02.58.43:612][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.11-02.58.44:164][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.11-02.58.44:204][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.12.11-02.58.44:265][  0]LogSlate: Took 0.038196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.11-02.58.44:298][  0]LogSlate: Took 0.030303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.11-02.58.44:318][  0]LogSlate: Took 0.016511 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.11-02.58.44:674][  0]LogRenderer: Reallocating scene render targets to support 940x464 Format 10 NumSamples 1 (Frame:1).
+[2018.12.11-02.58.44:745][  0]LogSlate: Took 0.010863 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.11-02.58.44:873][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.11-02.58.44:873][  0]LogLoad: (Engine Initialization) Total time: 58.90 seconds
+[2018.12.11-02.58.44:873][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.11-02.58.44:944][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.11-02.58.45:573][  6]LogAssetRegistry: Asset discovery search completed in 32.7261 seconds
+[2018.12.11-02.58.45:575][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.11-02.58.45:575][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000061 seconds (updated 0 objects)
+[2018.12.11-02.58.45:916][ 26]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.11-02.59.05:366][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-02.59.05:457][195]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/wolfChar.wolfChar
+[2018.12.11-02.59.06:638][195]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 117 classes and 0 folders.
+[2018.12.11-02.59.07:831][195]LogSlate: Took 0.025367 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.11-02.59.09:720][252]LogSlate: Took 0.007790 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.11-03.00.47:280][ 22]BlueprintLog: New page: Compile wolfChar
+[2018.12.11-03.00.47:480][ 22]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.11-03.00.47:480][ 22]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.11-03.00.48:120][ 22]LogBlueprint: Warning: [Compiler wolfChar] [0182.15] Compile of wolfChar successful, but with 2 Warning(s) [in 839 ms] (/Game/ThirdPersonBP/Blueprints/wolfChar.wolfChar)
+[2018.12.11-03.00.49:106][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/wolfChar" FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset" SILENT=true
+[2018.12.11-03.00.49:353][ 51]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/wolfChar21A086654FEE23629413E09AE8F57C6A.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset'
+[2018.12.11-03.00.49:879][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-03.00.53:088][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-03.00.53:189][277]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.11-03.00.53:241][277]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.11-03.00.53:241][277]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.11-03.00.53:242][277]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 10, 2018, 5:00:53 PM)
+[2018.12.11-03.00.53:255][277]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.11-03.00.53:279][277]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023325s)
+[2018.12.11-03.00.53:279][277]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.11-03.00.53:280][277]LogPlayLevel: PIE: World Init took: (0.000796s)
+[2018.12.11-03.00.53:280][277]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024466s)
+[2018.12.11-03.00.53:319][277]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.11-03.00.53:368][277]LogInit: FAudioDevice initialized.
+[2018.12.11-03.00.53:458][277]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.11-03.00.53:559][277]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.12.10-22.00.53
+[2018.12.11-03.00.53:573][277]LogWorld: Bringing up level for play took: 0.017129
+[2018.12.11-03.00.53:596][277]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2018.12.11-03.00.53:602][277]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.532
+[2018.12.11-03.00.53:602][277]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.11-03.00.55:183][371]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2018.12.11-03.00.55:267][376]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2018.12.11-03.01.00:783][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-03.01.00:969][718]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.11-03.01.00:970][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-03.01.01:005][718]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.11-03.01.01:005][718]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.11-03.01.01:039][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-03.01.01:068][720]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.12.11-03.01.47:521][340]BlueprintLog: New page: Compile wolfChar
+[2018.12.11-03.01.47:703][340]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.11-03.01.47:704][340]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.11-03.01.47:984][340]LogBlueprint: Warning: [Compiler wolfChar] [0242.01] Compile of wolfChar successful, but with 2 Warning(s) [in 462 ms] (/Game/ThirdPersonBP/Blueprints/wolfChar.wolfChar)
+[2018.12.11-03.01.49:036][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/wolfChar" FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset" SILENT=true
+[2018.12.11-03.01.49:255][373]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/wolfChar276585E34F5E898233EFA1B2F1301D00.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset'
+[2018.12.11-03.02.06:332][353]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.11-03.02.43:544][439]BlueprintLog: New page: Compile wolfChar
+[2018.12.11-03.02.43:730][439]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.11-03.02.43:730][439]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.11-03.02.44:024][439]LogBlueprint: Warning: [Compiler wolfChar] [0298.05] Compile of wolfChar successful, but with 2 Warning(s) [in 480 ms] (/Game/ThirdPersonBP/Blueprints/wolfChar.wolfChar)
+[2018.12.11-03.02.44:564][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/wolfChar" FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset" SILENT=true
+[2018.12.11-03.02.44:792][440]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/wolfChar7D113B2A4744090F1A924BBA777A26F3.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset'
+[2018.12.11-03.02.46:778][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/wolfChar" FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset" SILENT=true
+[2018.12.11-03.02.46:993][557]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/wolfCharD6309DA842CD097482FAEA89B54B8E60.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset'
+[2018.12.11-03.02.52:688][898]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.11-03.02.52:750][898]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.11-03.02.52:750][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.11-03.02.52:750][898]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 10, 2018, 5:02:52 PM)
+[2018.12.11-03.02.52:750][898]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.11-03.02.52:766][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015813s)
+[2018.12.11-03.02.52:767][898]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.11-03.02.52:767][898]LogPlayLevel: PIE: World Init took: (0.000670s)
+[2018.12.11-03.02.52:767][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016620s)
+[2018.12.11-03.02.52:806][898]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.11-03.02.52:857][898]LogInit: FAudioDevice initialized.
+[2018.12.11-03.02.52:890][898]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.11-03.02.52:893][898]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.12.10-22.02.52
+[2018.12.11-03.02.52:894][898]LogWorld: Bringing up level for play took: 0.003277
+[2018.12.11-03.02.52:911][898]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.159
+[2018.12.11-03.02.52:911][898]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.11-03.02.55:226][ 36]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2018.12.11-03.02.55:226][ 36]LogScript: Warning: Accessed None trying to read property CallFunc_FindPathToActorSynchronously_ReturnValue
+	wolfChar_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.wolfChar2_5
+	Function /Game/ThirdPersonBP/Blueprints/wolfChar.wolfChar_C:ExecuteUbergraph_wolfChar:21E0
+[2018.12.11-03.02.55:226][ 36]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FindPathToActorSynchronously_ReturnValue". Blueprint:  wolfChar Function:  Execute Ubergraph Wolf Char Graph:  ForEachLoop Node:  Branch
+[2018.12.11-03.02.55:226][ 36]LogScript: Warning: Accessed None
+	wolfChar_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.wolfChar2_5
+	Function /Game/ThirdPersonBP/Blueprints/wolfChar.wolfChar_C:ExecuteUbergraph_wolfChar:21C1
+[2018.12.11-03.02.55:226][ 36]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wolfChar Function:  Execute Ubergraph Wolf Char Graph:  ForEachLoop Node:  Branch
+[2018.12.11-03.02.55:275][ 39]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2018.12.11-03.02.55:275][ 39]LogScript: Warning: Accessed None trying to read property CallFunc_FindPathToActorSynchronously_ReturnValue
+	wolfChar_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.wolfChar2_5
+	Function /Game/ThirdPersonBP/Blueprints/wolfChar.wolfChar_C:ExecuteUbergraph_wolfChar:21E0
+[2018.12.11-03.02.55:276][ 39]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FindPathToActorSynchronously_ReturnValue". Blueprint:  wolfChar Function:  Execute Ubergraph Wolf Char Graph:  ForEachLoop Node:  Branch
+[2018.12.11-03.02.55:276][ 39]LogScript: Warning: Accessed None
+	wolfChar_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.wolfChar2_5
+	Function /Game/ThirdPersonBP/Blueprints/wolfChar.wolfChar_C:ExecuteUbergraph_wolfChar:21C1
+[2018.12.11-03.02.55:276][ 39]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  wolfChar Function:  Execute Ubergraph Wolf Char Graph:  ForEachLoop Node:  Branch
+[2018.12.11-03.02.59:442][289]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-03.02.59:527][294]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.11-03.02.59:527][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-03.02.59:567][294]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.11-03.02.59:567][294]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.11-03.02.59:600][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-03.02.59:637][295]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.12.11-03.03.10:450][943]LogSlate: Window 'Message Log' being destroyed
+[2018.12.11-03.03.10:455][943]LogSlate: Window 'Message Log' being destroyed
+[2018.12.11-03.03.30:573][104]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.11-03.03.30:591][104]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.11-03.03.30:591][104]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.11-03.03.30:676][104]LogPlayLevel: [PlayLevel] Compiling wolfChar before play...
+[2018.12.11-03.03.30:773][104]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.11-03.03.30:773][104]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.11-03.03.30:800][104]LogBlueprint: Warning: [Compiler wolfChar] [0344.83] Compile of wolfChar successful, but with 2 Warning(s) [in 141 ms] (/Game/ThirdPersonBP/Blueprints/wolfChar.wolfChar)
+[2018.12.11-03.03.31:053][104]LogPlayLevel: PlayLevel: Blueprint regeneration took 462 ms (1 blueprints)
+[2018.12.11-03.03.31:053][104]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 10, 2018, 5:03:31 PM)
+[2018.12.11-03.03.31:053][104]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.11-03.03.31:069][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015515s)
+[2018.12.11-03.03.31:069][104]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.11-03.03.31:070][104]LogPlayLevel: PIE: World Init took: (0.000583s)
+[2018.12.11-03.03.31:070][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016261s)
+[2018.12.11-03.03.31:105][104]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.11-03.03.31:154][104]LogInit: FAudioDevice initialized.
+[2018.12.11-03.03.31:186][104]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.11-03.03.31:193][104]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.12.10-22.03.31
+[2018.12.11-03.03.31:195][104]LogWorld: Bringing up level for play took: 0.006691
+[2018.12.11-03.03.31:215][104]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.145
+[2018.12.11-03.03.31:215][104]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.11-03.03.32:077][155]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2018.12.11-03.03.51:112][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-03.03.51:247][305]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.11-03.03.51:247][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-03.03.51:281][305]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.11-03.03.51:281][305]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.11-03.03.51:312][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-03.03.51:360][308]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.12.11-03.03.51:775][333]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.12.11-03.03.56:211][572]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-03.03.56:310][578]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.11-03.03.56:333][578]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.11-03.03.56:333][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.11-03.03.56:333][578]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 10, 2018, 5:03:56 PM)
+[2018.12.11-03.03.56:333][578]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.11-03.03.56:348][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015539s)
+[2018.12.11-03.03.56:349][578]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.11-03.03.56:349][578]LogPlayLevel: PIE: World Init took: (0.000670s)
+[2018.12.11-03.03.56:349][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016363s)
+[2018.12.11-03.03.56:386][578]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.11-03.03.56:433][578]LogInit: FAudioDevice initialized.
+[2018.12.11-03.03.56:465][578]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.11-03.03.56:469][578]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.12.10-22.03.56
+[2018.12.11-03.03.56:470][578]LogWorld: Bringing up level for play took: 0.003381
+[2018.12.11-03.03.56:487][578]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.583
+[2018.12.11-03.03.56:487][578]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.11-03.04.00:336][808]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2018.12.11-03.04.00:386][811]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2018.12.11-03.04.00:436][814]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2018.12.11-03.04.00:769][834]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2018.12.11-03.04.00:836][838]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2018.12.11-03.04.11:686][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-03.04.11:788][495]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.11-03.04.11:788][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-03.04.11:827][495]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.11-03.04.11:827][495]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.11-03.04.11:856][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-03.04.11:901][498]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.12.11-03.04.15:239][680]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/ThirdPersonExampleMap3F31AB8445BE5C8A71D547969DAE92D6.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.12.11-03.04.15:273][680]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.272
+[2018.12.11-03.04.15:293][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/wolfChar" FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset" SILENT=true
+[2018.12.11-03.04.15:515][680]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/wolfCharB9A756EF4C8C9C9E435171B42519E8E3.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset'
+[2018.12.11-03.04.25:840][299]LogEditorViewport: Clicking on Actor (LMB): basicEnnemie_C (basicEnnemie2)
+[2018.12.11-03.04.30:209][533]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-03.04.30:342][541]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.11-03.04.30:360][541]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.11-03.04.30:360][541]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.11-03.04.30:360][541]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 10, 2018, 5:04:30 PM)
+[2018.12.11-03.04.30:360][541]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.11-03.04.30:376][541]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016022s)
+[2018.12.11-03.04.30:377][541]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.11-03.04.30:377][541]LogPlayLevel: PIE: World Init took: (0.000716s)
+[2018.12.11-03.04.30:377][541]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016895s)
+[2018.12.11-03.04.30:413][541]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.11-03.04.30:463][541]LogInit: FAudioDevice initialized.
+[2018.12.11-03.04.30:492][541]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.11-03.04.30:496][541]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.12.10-22.04.30
+[2018.12.11-03.04.30:497][541]LogWorld: Bringing up level for play took: 0.003527
+[2018.12.11-03.04.30:514][541]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.556
+[2018.12.11-03.04.30:514][541]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.11-03.04.31:513][600]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2018.12.11-03.04.41:515][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-03.04.41:634][206]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.11-03.04.41:634][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-03.04.41:673][206]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.11-03.04.41:673][206]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.11-03.04.41:705][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-03.04.41:734][208]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.12.11-03.04.43:569][300]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/ThirdPersonExampleMapBE0727CF4D2E9B414A7013B2AEECEFD6.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.12.11-03.04.43:610][300]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.290
+[2018.12.11-03.08.24:364][539]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/effects/lineSpirit.lineSpirit
+[2018.12.11-03.08.40:777][496]BlueprintLog: New page: Compile lineSpirit
+[2018.12.11-03.08.41:409][518]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/lineSpirit1579513E492EDABC546113A2817B4D97.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/effects/lineSpirit.uasset'
+[2018.12.11-03.08.51:255][ 64]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/effects/lineSpirit.lineSpirit
+[2018.12.11-03.08.53:395][168]LogRenderer: Reallocating scene render targets to support 940x572 Format 10 NumSamples 1 (Frame:1).
+[2018.12.11-03.09.04:478][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-03.09.11:613][225]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-03.09.16:225][500]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-03.09.55:059][821]BlueprintLog: New page: Compile lineSpirit
+[2018.12.11-03.09.56:004][859]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/lineSpirit09709CDB44A47DC59014F6A9E9FACDD7.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/effects/lineSpirit.uasset'
+[2018.12.11-03.10.26:782][695]BlueprintLog: New page: Compile lineSpirit
+[2018.12.11-03.10.53:015][240]BlueprintLog: New page: Compile lineSpirit
+[2018.12.11-03.10.53:668][264]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/lineSpirit64AFA9A0483D39858EFFBF9B91C17E81.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/effects/lineSpirit.uasset'
+[2018.12.11-03.10.57:766][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/wolfChar" FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset" SILENT=true
+[2018.12.11-03.10.58:002][471]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/wolfChar57F2EE0A496FCE9974ED6E98D65A6C65.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset'
+[2018.12.11-03.11.39:292][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/wolfChar" FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset" SILENT=true
+[2018.12.11-03.11.39:516][836]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/wolfCharFBF6897243DF26CD37C6F09E45F352EF.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset'
+[2018.12.11-03.13.28:011][944]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.11-03.13.28:037][944]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.11-03.13.28:037][944]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.11-03.13.28:127][944]LogPlayLevel: [PlayLevel] Compiling wolfChar before play...
+[2018.12.11-03.13.28:226][944]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.11-03.13.28:227][944]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.11-03.13.28:257][944]LogBlueprint: Warning: [Compiler wolfChar] [0942.29] Compile of wolfChar successful, but with 2 Warning(s) [in 149 ms] (/Game/ThirdPersonBP/Blueprints/wolfChar.wolfChar)
+[2018.12.11-03.13.28:530][944]LogPlayLevel: PlayLevel: Blueprint regeneration took 492 ms (1 blueprints)
+[2018.12.11-03.13.28:530][944]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 10, 2018, 5:13:28 PM)
+[2018.12.11-03.13.28:530][944]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.11-03.13.28:557][944]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026536s)
+[2018.12.11-03.13.28:557][944]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.11-03.13.28:557][944]LogPlayLevel: PIE: World Init took: (0.000619s)
+[2018.12.11-03.13.28:557][944]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.027288s)
+[2018.12.11-03.13.28:593][944]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.11-03.13.28:645][944]LogInit: FAudioDevice initialized.
+[2018.12.11-03.13.28:685][944]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.11-03.13.28:692][944]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.12.10-22.13.28
+[2018.12.11-03.13.28:693][944]LogWorld: Bringing up level for play took: 0.006541
+[2018.12.11-03.13.28:711][944]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.641
+[2018.12.11-03.13.28:711][944]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.11-03.13.29:235][975]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2018.12.11-03.13.29:285][978]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2018.12.11-03.13.29:618][998]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2018.12.11-03.13.29:652][  0]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2018.12.11-03.13.29:702][  3]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2018.12.11-03.13.29:751][  6]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2018.12.11-03.13.31:585][116]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2018.12.11-03.13.35:885][374]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2018.12.11-03.13.37:918][496]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2018.12.11-03.13.37:952][498]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2018.12.11-03.13.38:019][502]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2018.12.11-03.13.38:685][542]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2018.12.11-03.13.38:768][547]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2018.12.11-03.13.39:820][610]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.11-03.13.39:820][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-03.13.39:859][610]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.11-03.13.39:859][610]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.11-03.13.39:891][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-03.13.39:924][612]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.12.11-03.13.41:166][686]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-03.13.41:376][698]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/effects/lineSpirit.lineSpirit
+[2018.12.11-03.13.52:221][261]BlueprintLog: New page: Compile wolfChar
+[2018.12.11-03.13.52:412][261]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.11-03.13.52:412][261]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.11-03.13.52:702][261]LogBlueprint: Warning: [Compiler wolfChar] [0966.73] Compile of wolfChar successful, but with 2 Warning(s) [in 481 ms] (/Game/ThirdPersonBP/Blueprints/wolfChar.wolfChar)
+[2018.12.11-03.13.53:484][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/wolfChar" FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset" SILENT=true
+[2018.12.11-03.13.53:717][289]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/wolfChar6B95EC0640B2751EFB55A7B3DB1139F6.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset'
+[2018.12.11-03.13.57:397][501]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.11-03.13.57:460][501]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.11-03.13.57:460][501]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.11-03.13.57:461][501]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 10, 2018, 5:13:57 PM)
+[2018.12.11-03.13.57:461][501]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.11-03.13.57:477][501]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016084s)
+[2018.12.11-03.13.57:477][501]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.11-03.13.57:477][501]LogPlayLevel: PIE: World Init took: (0.000552s)
+[2018.12.11-03.13.57:478][501]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016808s)
+[2018.12.11-03.13.57:520][501]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.11-03.13.57:568][501]LogInit: FAudioDevice initialized.
+[2018.12.11-03.13.57:599][501]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.11-03.13.57:603][501]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.12.10-22.13.57
+[2018.12.11-03.13.57:604][501]LogWorld: Bringing up level for play took: 0.003252
+[2018.12.11-03.13.57:627][501]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.557
+[2018.12.11-03.13.57:627][501]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.11-03.13.58:499][552]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2018.12.11-03.14.02:583][797]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2018.12.11-03.14.06:033][  4]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2018.12.11-03.14.06:933][ 58]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2018.12.11-03.14.11:835][352]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.11-03.14.11:835][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-03.14.11:873][352]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.11-03.14.11:874][352]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.11-03.14.11:910][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-03.14.11:940][353]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.12.11-03.14.13:210][428]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-03.14.35:691][714]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.11-03.14.35:714][714]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.11-03.14.35:714][714]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.11-03.14.35:803][714]LogPlayLevel: [PlayLevel] Compiling wolfChar before play...
+[2018.12.11-03.14.35:902][714]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.11-03.14.35:902][714]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.11-03.14.35:930][714]LogBlueprint: Warning: [Compiler wolfChar] [1009.96] Compile of wolfChar successful, but with 2 Warning(s) [in 146 ms] (/Game/ThirdPersonBP/Blueprints/wolfChar.wolfChar)
+[2018.12.11-03.14.36:195][714]LogPlayLevel: PlayLevel: Blueprint regeneration took 482 ms (1 blueprints)
+[2018.12.11-03.14.36:195][714]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 10, 2018, 5:14:36 PM)
+[2018.12.11-03.14.36:195][714]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.11-03.14.36:209][714]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013883s)
+[2018.12.11-03.14.36:210][714]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.11-03.14.36:210][714]LogPlayLevel: PIE: World Init took: (0.000946s)
+[2018.12.11-03.14.36:210][714]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015045s)
+[2018.12.11-03.14.36:248][714]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.11-03.14.36:299][714]LogInit: FAudioDevice initialized.
+[2018.12.11-03.14.36:330][714]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.11-03.14.36:333][714]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.12.10-22.14.36
+[2018.12.11-03.14.36:334][714]LogWorld: Bringing up level for play took: 0.003245
+[2018.12.11-03.14.36:351][714]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.281
+[2018.12.11-03.14.36:351][714]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.11-03.14.37:674][793]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2018.12.11-03.14.44:025][174]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2018.12.11-03.14.50:043][535]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2018.12.11-03.14.52:128][660]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.11-03.14.52:129][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-03.14.52:169][660]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.11-03.14.52:170][660]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.11-03.14.52:205][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-03.14.52:234][661]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.12.11-03.14.54:456][794]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-03.14.54:848][802]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/ThirdPersonExampleMapFE923488483C86A52A02B4BF29D1E55D.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.12.11-03.14.55:039][802]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/ThirdPersonExampleMap_BuiltData47194A5243DBEDABF990ADA6F5211BFA.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.12.11-03.14.57:016][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/wolfChar" FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset" SILENT=true
+[2018.12.11-03.14.57:243][916]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/wolfChar03B9FA2A443D8744E2114F9290FA0367.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset'
+[2018.12.11-03.15.53:050][994]BlueprintLog: New page: Compile wolfChar
+[2018.12.11-03.15.53:246][994]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.11-03.15.53:246][994]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.11-03.15.53:543][994]LogBlueprint: Warning: [Compiler wolfChar] [1087.57] Compile of wolfChar successful, but with 2 Warning(s) [in 493 ms] (/Game/ThirdPersonBP/Blueprints/wolfChar.wolfChar)
+[2018.12.11-03.15.54:841][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/wolfChar" FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset" SILENT=true
+[2018.12.11-03.15.55:074][ 52]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/wolfCharEDAA5C034A8D32E085B955993E18C856.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset'
+[2018.12.11-03.16.13:373][ 65]BlueprintLog: New page: Compile wolfChar
+[2018.12.11-03.16.13:574][ 65]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.11-03.16.13:575][ 65]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.11-03.16.13:906][ 65]LogBlueprint: Warning: [Compiler wolfChar] [1107.94] Compile of wolfChar successful, but with 2 Warning(s) [in 532 ms] (/Game/ThirdPersonBP/Blueprints/wolfChar.wolfChar)
+[2018.12.11-03.16.14:629][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/wolfChar" FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset" SILENT=true
+[2018.12.11-03.16.14:902][ 88]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/wolfChar979C636E4EDA7F5848A3D2940548509C.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset'
+[2018.12.11-03.17.47:438][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/wolfChar" FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset" SILENT=true
+[2018.12.11-03.17.47:672][863]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/wolfCharE73729D24F96C7F1AEC226AA793A186D.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset'
+[2018.12.11-03.19.54:842][ 18]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/widget/HUD_main.HUD_main
+[2018.12.11-03.21.15:287][750]LogSlate: Took 0.363575 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.12.11-03.22.26:531][902]LogSlate: Window 'Change Variable Type' being destroyed
+[2018.12.11-03.22.29:618][ 80]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.12.11-03.22.29:623][ 80]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.12.11-03.22.46:496][ 80]BlueprintLog: New page: Compile HUD_main
+[2018.12.11-03.22.47:387][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/widget/HUD_main" FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/widget/HUD_main.uasset" SILENT=true
+[2018.12.11-03.22.47:424][125]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/HUD_mainE782ED8148852AC2F8216D9F31856781.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/widget/HUD_main.uasset'
+[2018.12.11-03.23.38:803][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/wolfChar" FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset" SILENT=true
+[2018.12.11-03.23.39:040][  5]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/wolfChar27625BB44DFB4C8519637B9C38F94038.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset'
+[2018.12.11-03.23.40:714][ 81]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/ThirdPersonExampleMap995C8D1E42F9A96FB1973D9D5658B65D.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.12.11-03.23.40:758][ 81]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.295
+[2018.12.11-03.23.40:761][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/widget/HUD_main" FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/widget/HUD_main.uasset" SILENT=true
+[2018.12.11-03.23.40:786][ 81]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/HUD_mainD73699DC4FF283DBBE899883731A8BCA.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/widget/HUD_main.uasset'
+[2018.12.11-03.24.41:086][660]BlueprintLog: New page: Compile wolfChar
+[2018.12.11-03.24.41:284][660]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.11-03.24.41:284][660]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.11-03.24.41:594][660]LogBlueprint: Warning: [Compiler wolfChar] [1615.62] Compile of wolfChar successful, but with 2 Warning(s) [in 508 ms] (/Game/ThirdPersonBP/Blueprints/wolfChar.wolfChar)
+[2018.12.11-03.24.42:373][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/wolfChar" FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset" SILENT=true
+[2018.12.11-03.24.42:610][689]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/wolfCharD569289D4C571AA5BE3F08882DE78466.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset'
+[2018.12.11-03.24.48:699][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/wolfChar" FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset" SILENT=true
+[2018.12.11-03.24.48:931][ 49]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/wolfCharAC27F7BE4DEF0E3FA45D5F990D7154A0.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset'
+[2018.12.11-03.24.51:207][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/wolfChar" FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset" SILENT=true
+[2018.12.11-03.24.51:432][184]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/wolfCharA3C6707A4E403CC6CDB66DBDA04D904E.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset'
+[2018.12.11-03.27.42:249][316]BlueprintLog: New page: Compile HUD_main
+[2018.12.11-03.27.42:820][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/widget/HUD_main" FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/widget/HUD_main.uasset" SILENT=true
+[2018.12.11-03.27.42:854][339]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/HUD_main879A1C5842BC0799574B1DA3990CD32F.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/widget/HUD_main.uasset'
+[2018.12.11-03.28.10:004][944]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.11-03.28.10:078][944]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.11-03.28.10:079][944]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.11-03.28.10:170][944]LogPlayLevel: [PlayLevel] Compiling wolfChar before play...
+[2018.12.11-03.28.10:273][944]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.11-03.28.10:273][944]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.11-03.28.10:331][944]LogBlueprint: Warning: [Compiler wolfChar] [1824.36] Compile of wolfChar successful, but with 2 Warning(s) [in 181 ms] (/Game/ThirdPersonBP/Blueprints/wolfChar.wolfChar)
+[2018.12.11-03.28.10:535][944]LogPlayLevel: [PlayLevel] Compiling HUD_main before play...
+[2018.12.11-03.28.10:761][944]LogPlayLevel: PlayLevel: Blueprint regeneration took 682 ms (2 blueprints)
+[2018.12.11-03.28.10:761][944]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 10, 2018, 5:28:10 PM)
+[2018.12.11-03.28.10:761][944]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.11-03.28.10:792][944]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029631s)
+[2018.12.11-03.28.10:792][944]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.11-03.28.10:792][944]LogPlayLevel: PIE: World Init took: (0.000627s)
+[2018.12.11-03.28.10:792][944]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.030396s)
+[2018.12.11-03.28.10:828][944]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.11-03.28.10:876][944]LogInit: FAudioDevice initialized.
+[2018.12.11-03.28.10:913][944]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.11-03.28.10:922][944]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.12.10-22.28.10
+[2018.12.11-03.28.10:925][944]LogWorld: Bringing up level for play took: 0.009328
+[2018.12.11-03.28.10:951][944]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.881
+[2018.12.11-03.28.10:951][944]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.11-03.28.12:997][ 66]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2018.12.11-03.28.48:442][191]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2018.12.11-03.28.54:027][526]LogScript: Warning: Attempted to access wolfChar2_5 via property wolf, but wolfChar2_5 is pending kill
+	wolfSideList_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.wolfSideList_C_0
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetBrush_0:0044
+[2018.12.11-03.28.54:029][526]LogScript: Warning: Attempted to access wolfChar2_5 via property wolf, but wolfChar2_5 is pending kill
+	wolfSideList_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.wolfSideList_C_0
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetBrush_0:0044
+[2018.12.11-03.28.54:029][526]LogScript: Warning: Attempted to access wolfChar2_5 via property wolf, but wolfChar2_5 is pending kill
+	wolfSideList_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.wolfSideList_C_0
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0:0027
+[2018.12.11-03.28.54:029][526]LogScript: Warning: Attempted to access wolfChar2_5 via property wolf, but wolfChar2_5 is pending kill
+	wolfSideList_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.wolfSideList_C_0
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0:0062
+[2018.12.11-03.28.54:030][526]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:043][527]LogScript: Warning: Attempted to access wolfChar2_5 via property wolf, but wolfChar2_5 is pending kill
+	wolfSideList_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.wolfSideList_C_0
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetBrush_0:0044
+[2018.12.11-03.28.54:046][527]LogScript: Warning: Attempted to access wolfChar2_5 via property wolf, but wolfChar2_5 is pending kill
+	wolfSideList_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.wolfSideList_C_0
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetBrush_0:0044
+[2018.12.11-03.28.54:046][527]LogScript: Warning: Attempted to access wolfChar2_5 via property wolf, but wolfChar2_5 is pending kill
+	wolfSideList_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.wolfSideList_C_0
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0:0027
+[2018.12.11-03.28.54:046][527]LogScript: Warning: Attempted to access wolfChar2_5 via property wolf, but wolfChar2_5 is pending kill
+	wolfSideList_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.wolfSideList_C_0
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0:0062
+[2018.12.11-03.28.54:046][527]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:060][528]LogScript: Warning: Attempted to access wolfChar2_5 via property wolf, but wolfChar2_5 is pending kill
+	wolfSideList_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.wolfSideList_C_0
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetBrush_0:0044
+[2018.12.11-03.28.54:062][528]LogScript: Warning: Attempted to access wolfChar2_5 via property wolf, but wolfChar2_5 is pending kill
+	wolfSideList_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.wolfSideList_C_0
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetBrush_0:0044
+[2018.12.11-03.28.54:062][528]LogScript: Warning: Attempted to access wolfChar2_5 via property wolf, but wolfChar2_5 is pending kill
+	wolfSideList_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.wolfSideList_C_0
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0:0027
+[2018.12.11-03.28.54:062][528]LogScript: Warning: Attempted to access wolfChar2_5 via property wolf, but wolfChar2_5 is pending kill
+	wolfSideList_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.wolfSideList_C_0
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0:0062
+[2018.12.11-03.28.54:062][528]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:078][529]LogScript: Warning: Attempted to access wolfChar2_5 via property wolf, but wolfChar2_5 is pending kill
+	wolfSideList_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.wolfSideList_C_0
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetBrush_0:0044
+[2018.12.11-03.28.54:080][529]LogScript: Warning: Attempted to access wolfChar2_5 via property wolf, but wolfChar2_5 is pending kill
+	wolfSideList_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.wolfSideList_C_0
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetBrush_0:0044
+[2018.12.11-03.28.54:080][529]LogScript: Warning: Attempted to access wolfChar2_5 via property wolf, but wolfChar2_5 is pending kill
+	wolfSideList_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.wolfSideList_C_0
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0:0027
+[2018.12.11-03.28.54:080][529]LogScript: Warning: Attempted to access wolfChar2_5 via property wolf, but wolfChar2_5 is pending kill
+	wolfSideList_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.wolfSideList_C_0
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0:0062
+[2018.12.11-03.28.54:080][529]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:093][530]LogScript: Warning: Attempted to access wolfChar2_5 via property wolf, but wolfChar2_5 is pending kill
+	wolfSideList_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.wolfSideList_C_0
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetBrush_0:0044
+[2018.12.11-03.28.54:095][530]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:114][531]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:129][532]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:147][533]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:163][534]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:180][535]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:196][536]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:214][537]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:229][538]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:247][539]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:267][540]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:281][541]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:295][542]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:313][543]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:329][544]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:347][545]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:362][546]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:380][547]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:395][548]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:414][549]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:430][550]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:447][551]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:463][552]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:480][553]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:497][554]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:514][555]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:530][556]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:546][557]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:562][558]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:580][559]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:596][560]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:612][561]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:628][562]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:645][563]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:662][564]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:680][565]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:696][566]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:712][567]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:729][568]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:747][569]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:763][570]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:781][571]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:796][572]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:814][573]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:835][574]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:846][575]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:862][576]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:879][577]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:896][578]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:912][579]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:930][580]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:947][581]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:964][582]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:980][583]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.54:997][584]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:014][585]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:032][586]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:045][587]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:065][588]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:080][589]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:096][590]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:113][591]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:130][592]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:147][593]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:163][594]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:180][595]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:201][596]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:213][597]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:229][598]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:248][599]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:264][600]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:280][601]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:296][602]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:314][603]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:330][604]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:348][605]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:362][606]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:380][607]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:396][608]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:414][609]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:431][610]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:448][611]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:462][612]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:480][613]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:497][614]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:515][615]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:530][616]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:546][617]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:562][618]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:584][619]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:596][620]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:614][621]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:630][622]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:647][623]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:664][624]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:679][625]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:696][626]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:714][627]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:730][628]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:748][629]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:762][630]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:781][631]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:797][632]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:814][633]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:830][634]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:847][635]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:863][636]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:880][637]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:896][638]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:914][639]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:931][640]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:947][641]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:964][642]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:981][643]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.55:996][644]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.56:014][645]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.56:030][646]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.56:048][647]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.56:063][648]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.56:081][649]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.56:096][650]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.56:114][651]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.56:130][652]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.56:147][653]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.56:164][654]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.56:181][655]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.56:197][656]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.56:214][657]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.56:229][658]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.56:247][659]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.56:263][660]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.56:281][661]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.56:297][662]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/widget/wolfSideList.wolfSideList_C:GetPercent_0
+
+[2018.12.11-03.28.56:310][663]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.11-03.28.56:310][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-03.28.56:344][663]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.11-03.28.56:344][663]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.11-03.28.56:380][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.11-03.28.56:409][664]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.12.11-03.29.00:439][905]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.11-03.29.01:540][969]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.11-03.29.01:795][969]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/ThirdPersonExampleMap06CD5F65424ECF9413C295A5DF1D7150.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.12.11-03.29.01:834][969]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.283
+[2018.12.11-03.29.01:856][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/wolfChar" FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset" SILENT=true
+[2018.12.11-03.29.02:093][969]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/wolfChar7631E337436676E3B05A81967AF5DEB5.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset'
+[2018.12.11-03.29.02:101][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/widget/HUD_main" FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/widget/HUD_main.uasset" SILENT=true
+[2018.12.11-03.29.02:135][969]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/HUD_mainE5FED693459E4D49F82B2ABEC7C21DF7.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/widget/HUD_main.uasset'
+[2018.12.11-03.29.05:346][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-03.29.12:578][594]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/NPCs/ennemies.ennemies
+[2018.12.11-03.29.53:189][973]LogUObjectBase: Warning: Object is not registered
+[2018.12.11-03.29.53:189][973]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2018.12.11-03.29.55:660][973]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.472 s
+[2018.12.11-03.29.55:661][973]LogOutputDevice: Error: === Handled ensure: ===
+[2018.12.11-03.29.55:661][973]LogOutputDevice: Error: 
+[2018.12.11-03.29.55:661][973]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1154]
+[2018.12.11-03.29.55:661][973]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.12.11-03.29.55:661][973]LogOutputDevice: Error: Stack: 
+[2018.12.11-03.29.55:661][973]LogOutputDevice: Error: [Callstack] 0x00007ffd29d281d4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.11-03.29.55:661][973]LogOutputDevice: Error: [Callstack] 0x00007ffd29d3809e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.11-03.29.55:661][973]LogOutputDevice: Error: [Callstack] 0x00007ffd3cacbcba UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.12.11-03.29.55:661][973]LogOutputDevice: Error: [Callstack] 0x00007ffd270d769a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.12.11-03.29.55:661][973]LogOutputDevice: Error: [Callstack] 0x00007ffd27090917 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.12.11-03.29.55:661][973]LogOutputDevice: Error: [Callstack] 0x00007ffd4d907c74 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.11-03.29.55:661][973]LogOutputDevice: Error: [Callstack] 0x00007ffd4db54393 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.11-03.29.55:661][973]LogOutputDevice: Error: [Callstack] 0x00007ffd4d962d7a UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.11-03.29.55:661][973]LogOutputDevice: Error: [Callstack] 0x00007ffd4d938a70 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.11-03.29.55:661][973]LogOutputDevice: Error: [Callstack] 0x00007ffd4d92b263 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.11-03.29.55:661][973]LogOutputDevice: Error: [Callstack] 0x00007ffd4f11dc66 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.11-03.29.55:661][973]LogOutputDevice: Error: [Callstack] 0x00007ffd4f110de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.11-03.29.55:661][973]LogOutputDevice: Error: [Callstack] 0x00007ffd4f1201eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.11-03.29.55:661][973]LogOutputDevice: Error: [Callstack] 0x00007ffd4f10ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.11-03.29.55:661][973]LogOutputDevice: Error: [Callstack] 0x00007ffdaa206d41 USER32.dll!UnknownFunction []
+[2018.12.11-03.29.55:661][973]LogOutputDevice: Error: [Callstack] 0x00007ffdaa206713 USER32.dll!UnknownFunction []
+[2018.12.11-03.29.55:661][973]LogOutputDevice: Error: [Callstack] 0x00007ffd4f121746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.11-03.29.55:661][973]LogOutputDevice: Error: [Callstack] 0x00007ff775ca5546 UE4Editor.exe!UnknownFunction []
+[2018.12.11-03.29.55:661][973]LogOutputDevice: Error: [Callstack] 0x00007ff775cb596c UE4Editor.exe!UnknownFunction []
+[2018.12.11-03.29.55:661][973]LogOutputDevice: Error: [Callstack] 0x00007ff775cb59ea UE4Editor.exe!UnknownFunction []
+[2018.12.11-03.29.55:661][973]LogOutputDevice: Error: [Callstack] 0x00007ff775cc48da UE4Editor.exe!UnknownFunction []
+[2018.12.11-03.29.55:661][973]LogOutputDevice: Error: [Callstack] 0x00007ff775cc659a UE4Editor.exe!UnknownFunction []
+[2018.12.11-03.29.55:661][973]LogOutputDevice: Error: [Callstack] 0x00007ffdaa3f3034 KERNEL32.DLL!UnknownFunction []
+[2018.12.11-03.29.55:661][973]LogOutputDevice: Error: [Callstack] 0x00007ffdaacf1471 ntdll.dll!UnknownFunction []
+[2018.12.11-03.29.55:661][973]LogOutputDevice: Error: 
+[2018.12.11-03.29.55:670][973]LogStats:                SubmitErrorReport -  0.000 s
