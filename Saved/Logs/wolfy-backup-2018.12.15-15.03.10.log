@@ -1,0 +1,1144 @@
+﻿Log file open, 12/15/18 08:32:37
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: wolfy
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.434470
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.478s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program files/Unreal/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.004s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.12.15-13.32.45:445][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.12.15-13.32.45:446][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.12.15-13.32.45:446][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.15-13.32.45:446][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.12.15-13.32.45:446][  0]LogConfig: Setting CVar [[r.CustomDepth:3]]
+[2018.12.15-13.32.45:446][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.15-13.32.45:446][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.15-13.32.45:446][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.12.15-13.32.45:446][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.12.15-13.32.45:446][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.12.15-13.32.45:446][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.12.15-13.32.45:446][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.12.15-13.32.45:446][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.12.15-13.32.45:446][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.12.15-13.32.45:446][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.12.15-13.32.45:446][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.12.15-13.32.45:446][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.12.15-13.32.45:446][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.12.15-13.32.45:446][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.12.15-13.32.45:446][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.12.15-13.32.45:446][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.15-13.32.45:446][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.12.15-13.32.45:446][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.12.15-13.32.45:446][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.12.15-13.32.45:446][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.12.15-13.32.45:446][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.12.15-13.32.45:446][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.12.15-13.32.45:446][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.12.15-13.32.45:446][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.12.15-13.32.45:446][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.12.15-13.32.45:446][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.12.15-13.32.45:446][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.12.15-13.32.45:446][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.12.15-13.32.45:446][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.12.15-13.32.45:446][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.12.15-13.32.45:446][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.15-13.32.45:446][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.15-13.32.45:449][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.15-13.32.45:449][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.15-13.32.45:449][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.15-13.32.45:449][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.15-13.32.45:449][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.15-13.32.45:449][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.15-13.32.45:449][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.15-13.32.45:449][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.15-13.32.45:449][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.15-13.32.45:449][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.15-13.32.45:449][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.15-13.32.45:449][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.15-13.32.45:449][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.15-13.32.45:449][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.15-13.32.45:449][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.15-13.32.45:449][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.15-13.32.45:449][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.15-13.32.45:449][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.15-13.32.45:449][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.15-13.32.45:449][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.15-13.32.45:449][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.15-13.32.45:449][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.15-13.32.45:449][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.15-13.32.45:449][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.15-13.32.45:449][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.15-13.32.45:449][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.15-13.32.45:449][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.15-13.32.45:449][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.15-13.32.45:449][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.15-13.32.45:450][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.15-13.32.45:450][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.15-13.32.45:450][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.15-13.32.45:517][  0]LogHAL: Display: Platform has ~ 16 GB [17055186944 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.12.15-13.32.45:517][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.15-13.32.45:517][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.15-13.32.45:517][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.15-13.32.45:518][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.15-13.32.45:518][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.15-13.32.45:518][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.15-13.32.45:518][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.15-13.32.45:518][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.15-13.32.45:518][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.15-13.32.45:518][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.15-13.32.45:518][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.15-13.32.45:518][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.15-13.32.45:518][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.15-13.32.45:518][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.15-13.32.45:518][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.15-13.32.45:518][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.15-13.32.45:518][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.15-13.32.45:518][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.15-13.32.45:518][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.15-13.32.45:518][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.15-13.32.45:518][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.15-13.32.45:518][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.15-13.32.45:518][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.15-13.32.45:518][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.15-13.32.45:518][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.15-13.32.45:518][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.15-13.32.45:518][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.15-13.32.45:518][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.15-13.32.45:518][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.15-13.32.45:518][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.15-13.32.45:518][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.15-13.32.45:518][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.15-13.32.45:518][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.15-13.32.45:518][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.12.15-13.32.45:525][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.12.15-13.32.45:525][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.15-13.32.45:525][  0]LogInit: Computer: LAPTOP-6ORP0FSQ
+[2018.12.15-13.32.45:525][  0]LogInit: User: simon
+[2018.12.15-13.32.45:525][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.15-13.32.45:525][  0]LogInit: High frequency timer resolution =2.742192 MHz
+[2018.12.15-13.32.45:526][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.12.15-13.32.45:526][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.15-13.32.45:526][  0]LogMemory: Process Physical Memory: 104.04 MB used, 104.04 MB peak
+[2018.12.15-13.32.45:526][  0]LogMemory: Process Virtual Memory: 86.80 MB used, 86.80 MB peak
+[2018.12.15-13.32.45:526][  0]LogMemory: Physical Memory: 6739.46 MB used,  9525.64 MB free, 16265.09 MB total
+[2018.12.15-13.32.45:526][  0]LogMemory: Virtual Memory: 4647.80 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2018.12.15-13.32.48:609][  0]LogInit: Using OS detected language (en-US).
+[2018.12.15-13.32.48:609][  0]LogInit: Using OS detected locale (en-CA).
+[2018.12.15-13.32.48:712][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.15-13.32.52:623][  0]LogStreaming: Display: Took  4.014s to InitEngineTextLocalization.
+[2018.12.15-13.32.52:623][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.15-13.32.53:597][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.15-13.32.53:597][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.15-13.33.04:158][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.15-13.33.04:158][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.15-13.33.04:312][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.12.15-13.33.04:312][  0]LogD3D11RHI:       4021/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.12.15-13.33.04:322][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.12.15-13.33.04:322][  0]LogD3D11RHI:       128/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.12.15-13.33.04:323][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.15-13.33.04:323][  0]LogD3D11RHI:       0/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.15-13.33.04:323][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.15-13.33.04:353][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.15-13.33.04:353][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2018.12.15-13.33.04:353][  0]LogWindows: EnumDisplayDevices:
+[2018.12.15-13.33.04:353][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.12.15-13.33.04:353][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.12.15-13.33.04:354][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.12.15-13.33.04:354][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.12.15-13.33.04:354][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.12.15-13.33.04:354][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.12.15-13.33.04:354][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.12.15-13.33.04:354][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2018.12.15-13.33.04:403][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.15-13.33.04:464][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.15-13.33.06:662][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.15-13.33.06:857][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.15-13.33.06:888][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.15-13.33.06:940][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.15-13.33.07:161][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.15-13.33.07:222][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.15-13.33.07:364][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.15-13.33.07:508][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.15-13.33.07:591][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.15-13.33.07:928][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.15-13.33.07:928][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.15-13.33.07:928][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.15-13.33.07:928][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.15-13.33.07:928][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.15-13.33.07:928][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.15-13.33.07:928][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.15-13.33.07:928][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.15-13.33.07:928][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.15-13.33.07:928][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.15-13.33.07:928][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.15-13.33.07:928][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.15-13.33.07:928][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.15-13.33.07:928][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.15-13.33.07:928][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.15-13.33.07:928][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.15-13.33.07:928][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.15-13.33.07:928][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.15-13.33.08:045][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.15-13.33.08:601][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.15-13.33.08:601][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.15-13.33.08:645][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.15-13.33.08:645][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.15-13.33.08:687][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.15-13.33.08:845][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.15-13.33.08:873][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.15-13.33.08:971][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.15-13.33.09:175][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.15-13.33.09:175][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.15-13.33.09:175][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.15-13.33.13:362][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Intermediate/Shaders/WorkingDirectory/20876/).
+[2018.12.15-13.33.13:362][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/simon/AppData/Local/Temp/UnrealShaderWorkingDir/B7D03BFF45449928B3508480C96D9B65/'.
+[2018.12.15-13.33.13:363][  0]LogXGEController: Cleaning working directory: C:/Users/simon/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.15-13.33.13:363][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.15-13.33.13:363][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.15-13.33.13:363][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.15-13.33.22:567][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.15-13.33.22:766][  0]LogDerivedDataCache: Loaded boot cache 0.20s 71MB C:/Users/simon/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.15-13.33.22:766][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/simon/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.12.15-13.33.22:766][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.15-13.33.22:766][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.15-13.33.22:766][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.15-13.33.22:766][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.15-13.33.23:002][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.15-13.33.23:002][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.15-13.33.23:002][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2018.12.15-13.33.23:014][  0]LogDerivedDataCache: Using Local data cache path C:/Users/simon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.15-13.33.23:014][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.15-13.33.23:014][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.15-13.33.23:038][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.15-13.33.23:040][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.15-13.33.23:233][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.15-13.33.25:026][  0]LogAssetRegistry: FAssetRegistry took 0.0353 seconds to start up
+[2018.12.15-13.33.25:468][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.15-13.33.30:152][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.15-13.33.31:485][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.15-13.33.31:486][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.15-13.33.31:553][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.15-13.33.31:553][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.15-13.33.32:006][  0]LogNetVersion: wolfy 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1840138777)
+[2018.12.15-13.33.38:334][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.119740 seconds
+[2018.12.15-13.33.38:342][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.12.15-13.33.38:342][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2018.12.15-13.33.38:343][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.15-13.34.17:774][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.15-13.34.17:998][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.15-13.34.22:247][  0]SourceControl: Source control is disabled
+[2018.12.15-13.34.22:248][  0]SourceControl: Source control is disabled
+[2018.12.15-13.34.22:608][  0]SourceControl: Source control is disabled
+[2018.12.15-13.34.22:814][  0]SourceControl: Source control is disabled
+[2018.12.15-13.34.29:419][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.15-13.34.30:892][  0]LogOcInput: OculusInput pre-init called
+[2018.12.15-13.34.31:902][  0]LogEngine: Initializing Engine...
+[2018.12.15-13.34.31:903][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.15-13.34.31:906][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.15-13.34.31:906][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.15-13.34.31:906][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.15-13.34.31:906][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.15-13.34.34:225][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.15-13.34.34:527][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.15-13.34.34:552][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.15-13.34.34:753][  0]LogInit: FAudioDevice initialized.
+[2018.12.15-13.34.34:753][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.15-13.34.34:842][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/simon/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.15-13.34.34:882][  0]LogInit: Texture streaming: Enabled
+[2018.12.15-13.34.35:149][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.15-13.34.35:150][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={09591ECA-4A3C-B74A-E703-0C97663A8087}
+[2018.12.15-13.34.35:327][  0]LogInit: Transaction tracking system initialized
+[2018.12.15-13.34.35:894][  0]BlueprintLog: New page: Editor Load
+[2018.12.15-13.34.39:451][  0]LocalizationService: Localization service is disabled
+[2018.12.15-13.34.45:442][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.15-13.34.45:443][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.15-13.34.45:443][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.15-13.34.45:443][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.15-13.34.45:443][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.15-13.34.45:443][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.15-13.34.45:443][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.15-13.34.46:377][  0]LogFileCache: Scanning file cache for directory 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/' took 0.02s
+[2018.12.15-13.34.49:030][  0]SourceControl: Source control is disabled
+[2018.12.15-13.34.49:030][  0]Cmd: MAP LOAD FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.15-13.34.49:030][  0]LightingResults: New page: Lighting Build
+[2018.12.15-13.34.49:033][  0]MapCheck: New page: Map Check
+[2018.12.15-13.34.49:033][  0]LightingResults: New page: Lighting Build
+[2018.12.15-13.34.50:242][  0]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.15-13.34.50:242][  0]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.15-13.34.50:374][  0]LogBlueprint: Warning: [Compiler wolfChar] [0166.39] Compile of wolfChar successful, but with 2 Warning(s) [in 294 ms] (/Game/ThirdPersonBP/Blueprints/wolfChar.wolfChar)
+[2018.12.15-13.34.53:346][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.15-13.34.53:481][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.15-13.34.53:515][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.15-13.34.53:515][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.123ms to complete.
+[2018.12.15-13.34.53:515][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 4.485
+[2018.12.15-13.34.53:722][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.15-13.34.53:730][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.15-13.34.53:740][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.15-13.34.53:750][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.15-13.34.53:816][  0]LogCollectionManager: Loaded 0 collections in 0.001281 seconds
+[2018.12.15-13.34.53:831][  0]LogFileCache: Scanning file cache for directory 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Collections/' took 0.01s
+[2018.12.15-13.34.53:831][  0]LogFileCache: Scanning file cache for directory 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/Developers/simon/Collections/' took 0.00s
+[2018.12.15-13.34.53:831][  0]LogFileCache: Scanning file cache for directory 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/Collections/' took 0.00s
+[2018.12.15-13.34.53:831][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.15-13.34.53:842][  0]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 2651 classes and 620 folders.
+[2018.12.15-13.34.53:846][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.15-13.34.53:919][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.15-13.34.53:953][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.15-13.34.53:981][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.15-13.34.54:018][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.15-13.34.54:026][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.15-13.34.54:049][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.15-13.34.54:057][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.15-13.34.54:067][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.15-13.34.54:076][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.15-13.34.54:095][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.15-13.34.54:103][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.15-13.34.54:110][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.15-13.34.54:118][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.15-13.34.54:126][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.15-13.34.54:132][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.15-13.34.54:150][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.15-13.34.54:188][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.15-13.34.54:197][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.15-13.34.54:205][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.15-13.34.54:211][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.15-13.34.54:279][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.15-13.34.54:310][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.15-13.34.54:331][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.15-13.34.54:339][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.15-13.34.54:355][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.15-13.34.54:372][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.15-13.34.55:536][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.15-13.34.55:585][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.12.15-13.34.57:768][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.12.15-13.34.57:869][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.wolfy
+[2018.12.15-13.34.57:869][  0]LogTemp: CWD: D:\Program files\Unreal\UE_4.21\Engine\Binaries\DotNET\IOS
+[2018.12.15-13.34.57:869][  0]LogTemp: Initial Dir: D:\Program files\Unreal\UE_4.21
+[2018.12.15-13.34.57:869][  0]LogTemp: Env CWD: D:\Program files\Unreal\UE_4.21\Engine\Binaries\DotNET\IOS
+[2018.12.15-13.34.57:869][  0]LogTemp: BranchPath = LAPTOP-6ORP0FSQ/D/Program files/Unreal/UE_4.21/Engine/Binaries --- GameBranchPath = LAPTOP-6ORP0FSQ/D/Program files/Unreal/UE_4.21/Engine/Binaries
+[2018.12.15-13.34.57:869][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\simon\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.12.15-13.34.57:869][  0]LogSlate: Took 0.029006 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.15-13.34.57:902][  0]LogSlate: Took 0.031016 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.15-13.34.57:922][  0]LogSlate: Took 0.013433 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.15-13.34.58:292][  0]LogRenderer: Reallocating scene render targets to support 940x464 Format 10 NumSamples 1 (Frame:1).
+[2018.12.15-13.34.58:366][  0]LogSlate: Took 0.007910 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.15-13.34.58:529][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.15-13.34.58:529][  0]LogLoad: (Engine Initialization) Total time: 174.54 seconds
+[2018.12.15-13.34.58:530][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.15-13.34.58:609][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.15-13.34.59:304][  6]LogAssetRegistry: Asset discovery search completed in 94.3011 seconds
+[2018.12.15-13.34.59:306][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.15-13.34.59:306][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000052 seconds (updated 0 objects)
+[2018.12.15-13.39.05:164][740]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.15-13.39.06:251][801]LogSlate: Window 'Project Settings' being destroyed
+[2018.12.15-13.39.06:255][801]LogSlate: Window 'Project Settings' being destroyed
+[2018.12.15-13.39.12:983][956]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.12.15-13.39.14:790][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-13.39.14:889][ 44]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.15-13.39.14:916][ 44]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-13.39.14:916][ 44]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.15-13.39.14:917][ 44]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 15, 2018, 3:39:14 AM)
+[2018.12.15-13.39.14:930][ 44]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.15-13.39.14:954][ 44]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023812s)
+[2018.12.15-13.39.14:955][ 44]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.15-13.39.14:955][ 44]LogPlayLevel: PIE: World Init took: (0.000939s)
+[2018.12.15-13.39.14:955][ 44]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025122s)
+[2018.12.15-13.39.14:988][ 44]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.15-13.39.15:049][ 44]LogInit: FAudioDevice initialized.
+[2018.12.15-13.39.15:095][ 44]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.15-13.39.15:123][ 44]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.12.15-08.39.15
+[2018.12.15-13.39.15:163][ 44]LogWorld: Bringing up level for play took: 0.042481
+[2018.12.15-13.39.15:190][ 44]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2018.12.15-13.39.15:197][ 44]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.262
+[2018.12.15-13.39.15:198][ 44]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-13.39.32:572][ 81]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-13.39.32:572][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.15-13.39.32:639][ 81]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.15-13.39.32:640][ 81]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-13.39.32:667][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.15-13.39.32:729][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.12.15-13.39.38:917][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-13.39.39:005][453]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.15-13.39.39:232][453]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/ThirdPersonExampleMapDDE4548347923AB7FE4943B425207034.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.12.15-13.39.39:431][453]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/ThirdPersonExampleMap_BuiltDataDACAE8AE41F02A21ECF6D49CE462B487.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.12.15-13.39.40:659][520]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/wolfChar.wolfChar
+[2018.12.15-13.39.41:760][520]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 117 classes and 0 folders.
+[2018.12.15-13.39.43:147][520]LogSlate: Took 0.038142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.15-13.39.44:474][521]LogSlate: Took 0.022789 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.15-13.40.05:126][672]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/StarterContent/Particles/P_Fire.P_Fire
+[2018.12.15-13.40.05:231][672]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2018.12.15-13.40.09:339][839]LogCascade: Quitting Cascade. FXSystem=0x0000027F0345CFE0
+[2018.12.15-13.40.13:695][ 64]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/StarterContent/Particles/fireSplash_lp.fireSplash_lp
+[2018.12.15-13.40.17:365][263]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/StarterContent/Particles/fireRing_lp.fireRing_lp
+[2018.12.15-13.40.21:004][459]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/StarterContent/Particles/fireBreath_lp.fireBreath_lp
+[2018.12.15-13.40.24:100][620]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/StarterContent/Particles/fire_LP.fire_LP
+[2018.12.15-13.40.51:908][241]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/StarterContent/Particles/fireBall_lp1.fireBall_lp1
+[2018.12.15-13.41.02:621][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-13.41.07:231][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-13.41.15:213][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-13.41.23:326][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-13.41.40:151][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-13.42.03:460][345]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-13.42.13:638][864]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.15-13.42.13:665][864]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-13.42.13:665][864]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.15-13.42.13:815][864]LogPlayLevel: [PlayLevel] Compiling wolfChar before play...
+[2018.12.15-13.42.13:973][864]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.15-13.42.13:973][864]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.15-13.42.14:118][864]LogBlueprint: Warning: [Compiler wolfChar] [0610.13] Compile of wolfChar successful, but with 2 Warning(s) [in 346 ms] (/Game/ThirdPersonBP/Blueprints/wolfChar.wolfChar)
+[2018.12.15-13.42.14:725][864]LogPlayLevel: PlayLevel: Blueprint regeneration took 1060 ms (1 blueprints)
+[2018.12.15-13.42.14:726][864]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 15, 2018, 3:42:14 AM)
+[2018.12.15-13.42.14:726][864]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.15-13.42.14:740][864]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014570s)
+[2018.12.15-13.42.14:742][864]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.15-13.42.14:742][864]LogPlayLevel: PIE: World Init took: (0.001488s)
+[2018.12.15-13.42.14:742][864]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016189s)
+[2018.12.15-13.42.14:787][864]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.15-13.42.14:848][864]LogInit: FAudioDevice initialized.
+[2018.12.15-13.42.14:922][864]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.15-13.42.14:925][864]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.12.15-08.42.14
+[2018.12.15-13.42.14:925][864]LogWorld: Bringing up level for play took: 0.002119
+[2018.12.15-13.42.14:941][864]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 2.005
+[2018.12.15-13.42.14:941][864]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-13.42.32:659][886]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-13.42.32:660][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.15-13.42.32:699][886]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.15-13.42.32:699][886]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-13.42.32:771][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.15-13.42.32:866][887]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.12.15-13.42.33:751][924]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-13.42.51:386][846]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.15-13.42.51:409][846]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-13.42.51:409][846]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.15-13.42.51:545][846]LogPlayLevel: [PlayLevel] Compiling wolfChar before play...
+[2018.12.15-13.42.51:701][846]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.15-13.42.51:701][846]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.15-13.42.51:756][846]LogBlueprint: Warning: [Compiler wolfChar] [0647.77] Compile of wolfChar successful, but with 2 Warning(s) [in 236 ms] (/Game/ThirdPersonBP/Blueprints/wolfChar.wolfChar)
+[2018.12.15-13.42.52:008][846]LogPlayLevel: PlayLevel: Blueprint regeneration took 598 ms (1 blueprints)
+[2018.12.15-13.42.52:008][846]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 15, 2018, 3:42:52 AM)
+[2018.12.15-13.42.52:008][846]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.15-13.42.52:022][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014511s)
+[2018.12.15-13.42.52:023][846]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.15-13.42.52:023][846]LogPlayLevel: PIE: World Init took: (0.000759s)
+[2018.12.15-13.42.52:023][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015460s)
+[2018.12.15-13.42.52:065][846]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.15-13.42.52:120][846]LogInit: FAudioDevice initialized.
+[2018.12.15-13.42.52:152][846]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.15-13.42.52:157][846]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.12.15-08.42.52
+[2018.12.15-13.42.52:157][846]LogWorld: Bringing up level for play took: 0.003507
+[2018.12.15-13.42.52:179][846]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.243
+[2018.12.15-13.42.52:179][846]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-13.43.03:076][485]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-13.43.03:077][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.15-13.43.03:116][485]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.15-13.43.03:116][485]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-13.43.03:146][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.15-13.43.03:214][486]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.12.15-13.43.23:993][604]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.15-13.43.45:577][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-13.43.49:622][976]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-13.44.01:202][338]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.15-13.44.01:226][338]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-13.44.01:226][338]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.15-13.44.01:226][338]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 15, 2018, 3:44:01 AM)
+[2018.12.15-13.44.01:226][338]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.15-13.44.01:238][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011875s)
+[2018.12.15-13.44.01:239][338]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.15-13.44.01:239][338]LogPlayLevel: PIE: World Init took: (0.001092s)
+[2018.12.15-13.44.01:239][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013161s)
+[2018.12.15-13.44.01:281][338]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.15-13.44.01:334][338]LogInit: FAudioDevice initialized.
+[2018.12.15-13.44.01:364][338]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.15-13.44.01:367][338]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.12.15-08.44.01
+[2018.12.15-13.44.01:367][338]LogWorld: Bringing up level for play took: 0.002065
+[2018.12.15-13.44.01:384][338]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.449
+[2018.12.15-13.44.01:384][338]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-13.44.18:138][324]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-13.44.18:138][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.15-13.44.18:179][324]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.15-13.44.18:179][324]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-13.44.18:215][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.15-13.44.18:352][325]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.12.15-13.44.19:716][390]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.15-13.44.20:627][437]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.15-13.44.20:741][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/wolfChar" FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset" SILENT=true
+[2018.12.15-13.44.21:250][437]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/wolfCharE39219FB4AE9A6341CC147A0D8B77B41.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset'
+[2018.12.15-13.44.21:262][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/fireBall_lp1" FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/StarterContent/Particles/fireBall_lp1.uasset" SILENT=true
+[2018.12.15-13.44.21:309][437]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/fireBall_lp1CEE576674B3EADCAB79ADBB333C7EE35.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/StarterContent/Particles/fireBall_lp1.uasset'
+[2018.12.15-13.44.23:245][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-13.44.38:802][440]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-13.44.38:869][444]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.15-13.44.38:891][444]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-13.44.38:892][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.15-13.44.38:892][444]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 15, 2018, 3:44:38 AM)
+[2018.12.15-13.44.38:892][444]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.15-13.44.38:906][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013681s)
+[2018.12.15-13.44.38:906][444]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.15-13.44.38:906][444]LogPlayLevel: PIE: World Init took: (0.000616s)
+[2018.12.15-13.44.38:906][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014430s)
+[2018.12.15-13.44.38:982][444]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.15-13.44.39:029][444]LogInit: FAudioDevice initialized.
+[2018.12.15-13.44.39:063][444]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.15-13.44.39:065][444]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.12.15-08.44.39
+[2018.12.15-13.44.39:066][444]LogWorld: Bringing up level for play took: 0.001933
+[2018.12.15-13.44.39:081][444]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.145
+[2018.12.15-13.44.39:081][444]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-13.44.54:243][346]LogBlueprintUserMessages: Warning: Time Dilation must be between 0.000100 and 20.000000.  Clamped value to that range.
+[2018.12.15-13.44.54:255][346]LogBlueprintUserMessages: [HUD_main_C_0] Hello
+[2018.12.15-13.45.05:240][  3]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-13.45.05:241][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.15-13.45.05:340][  3]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.15-13.45.05:340][  3]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-13.45.05:539][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.15-13.45.05:650][  4]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.12.15-13.45.07:197][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-13.45.27:128][249]LogCascade: Quitting Cascade. FXSystem=0x0000027F0D774CC0
+[2018.12.15-13.45.27:463][256]LogCascade: Quitting Cascade. FXSystem=0x0000027F0ED41080
+[2018.12.15-13.45.27:505][256]LogActorComponent: UnregisterComponent: (/Engine/Transient.FloorComponent) Not registered. Aborting.
+[2018.12.15-13.45.27:785][262]LogCascade: Quitting Cascade. FXSystem=0x0000027F0ED68B80
+[2018.12.15-13.45.27:808][262]LogActorComponent: UnregisterComponent: (/Engine/Transient.FloorComponent) Not registered. Aborting.
+[2018.12.15-13.45.28:061][267]LogCascade: Quitting Cascade. FXSystem=0x0000027F1D403C40
+[2018.12.15-13.45.28:082][267]LogActorComponent: UnregisterComponent: (/Engine/Transient.FloorComponent) Not registered. Aborting.
+[2018.12.15-13.45.28:312][274]LogCascade: Quitting Cascade. FXSystem=0x0000027F0D366A20
+[2018.12.15-13.45.28:352][274]LogActorComponent: UnregisterComponent: (/Engine/Transient.FloorComponent) Not registered. Aborting.
+[2018.12.15-13.45.34:940][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-13.45.38:525][867]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/effects/spell/projectile.projectile
+[2018.12.15-13.50.53:583][209]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.034
+[2018.12.15-13.50.53:613][209]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/wolfChar] ([1] browsable assets)...
+[2018.12.15-13.50.53:613][209]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/wolfChar]
+[2018.12.15-13.50.53:959][209]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/wolfChar_Auto15A4E23624CD1B06828AD838BDBADED88.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/wolfChar_Auto1.uasset'
+[2018.12.15-13.50.53:963][209]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/effects/spell/projectile] ([1] browsable assets)...
+[2018.12.15-13.50.53:963][209]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/effects/spell/projectile]
+[2018.12.15-13.50.54:006][209]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/projectile_Auto1AAC2D0354BA97D3FA3C034ADB244E314.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/effects/spell/projectile_Auto1.uasset'
+[2018.12.15-13.50.54:007][209]LogFileHelpers: Auto-saving content packages took 0.422
+[2018.12.15-13.55.29:455][136]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/projectile8C7E6BA3425C343AA7A6AD816A0CD006.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/effects/spell/projectile.uasset'
+[2018.12.15-13.55.31:020][206]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.15-13.55.31:840][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/wolfChar" FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset" SILENT=true
+[2018.12.15-13.55.32:155][248]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/wolfCharBAB83061495F7567565D408920595929.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset'
+[2018.12.15-13.55.51:001][347]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-13.56.51:961][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-13.56.52:027][887]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.15-13.56.52:054][887]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-13.56.52:054][887]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.15-13.56.52:124][887]LogPlayLevel: [PlayLevel] Compiling projectile before play...
+[2018.12.15-13.56.52:480][887]LogPlayLevel: PlayLevel: Blueprint regeneration took 425 ms (1 blueprints)
+[2018.12.15-13.56.52:480][887]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 15, 2018, 3:56:52 AM)
+[2018.12.15-13.56.52:480][887]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.15-13.56.52:492][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013108s)
+[2018.12.15-13.56.52:493][887]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.15-13.56.52:493][887]LogPlayLevel: PIE: World Init took: (0.000822s)
+[2018.12.15-13.56.52:493][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014132s)
+[2018.12.15-13.56.52:536][887]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.15-13.56.52:585][887]LogInit: FAudioDevice initialized.
+[2018.12.15-13.56.52:620][887]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.15-13.56.52:622][887]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.12.15-08.56.52
+[2018.12.15-13.56.52:622][887]LogWorld: Bringing up level for play took: 0.001542
+[2018.12.15-13.56.52:667][887]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.268
+[2018.12.15-13.56.52:668][887]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-13.57.01:620][386]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-13.57.01:620][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.15-13.57.01:652][386]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.15-13.57.01:653][386]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-13.57.01:688][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.15-13.57.01:750][387]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.12.15-13.57.02:551][428]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-13.57.02:667][435]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.15-13.57.02:694][435]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-13.57.02:694][435]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.15-13.57.02:694][435]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 15, 2018, 3:57:02 AM)
+[2018.12.15-13.57.02:694][435]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.15-13.57.02:707][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012634s)
+[2018.12.15-13.57.02:707][435]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.15-13.57.02:708][435]LogPlayLevel: PIE: World Init took: (0.000992s)
+[2018.12.15-13.57.02:708][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013803s)
+[2018.12.15-13.57.02:746][435]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.15-13.57.02:792][435]LogInit: FAudioDevice initialized.
+[2018.12.15-13.57.02:829][435]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.15-13.57.02:831][435]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.12.15-08.57.02
+[2018.12.15-13.57.02:831][435]LogWorld: Bringing up level for play took: 0.001522
+[2018.12.15-13.57.02:846][435]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.089
+[2018.12.15-13.57.02:847][435]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-13.57.09:553][801]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-13.57.09:553][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.15-13.57.09:587][801]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.15-13.57.09:587][801]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-13.57.09:614][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.15-13.57.09:668][803]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.12.15-13.57.10:418][848]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-13.57.10:518][854]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.15-13.57.10:544][854]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-13.57.10:544][854]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.15-13.57.10:544][854]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 15, 2018, 3:57:10 AM)
+[2018.12.15-13.57.10:544][854]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.15-13.57.10:556][854]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011947s)
+[2018.12.15-13.57.10:558][854]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.15-13.57.10:558][854]LogPlayLevel: PIE: World Init took: (0.001772s)
+[2018.12.15-13.57.10:558][854]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013958s)
+[2018.12.15-13.57.10:596][854]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.15-13.57.10:641][854]LogInit: FAudioDevice initialized.
+[2018.12.15-13.57.10:674][854]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.15-13.57.10:676][854]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.12.15-08.57.10
+[2018.12.15-13.57.10:677][854]LogWorld: Bringing up level for play took: 0.001770
+[2018.12.15-13.57.10:693][854]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.243
+[2018.12.15-13.57.10:693][854]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-13.57.15:028][109]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-13.57.15:029][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.15-13.57.15:067][109]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.15-13.57.15:067][109]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-13.57.15:104][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.15-13.57.15:155][110]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.12.15-13.57.29:373][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-13.57.29:729][964]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/ThirdPersonExampleMap30A32CC742D56786234BC8AC903BDC8C.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.12.15-13.57.29:884][964]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/ThirdPersonExampleMap_BuiltData1FEA6BC4488AE5B211258A82D9235795.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.12.15-13.57.30:669][  7]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.15-13.57.31:520][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.15-13.57.31:591][ 56]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/projectileCFB2AEB64A912C9766AE42B1E190C331.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/effects/spell/projectile.uasset'
+[2018.12.15-13.57.36:663][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-13.57.58:762][151]LogHttp: Warning: 0000027F0ABD8680: request failed, libcurl error: 28 (Timeout was reached)
+[2018.12.15-13.57.58:763][151]LogHttp: Warning: 0000027F0ABD8680: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x27ebd283fa0 [can pipeline])
+[2018.12.15-13.57.58:763][151]LogHttp: Warning: 0000027F0ABD8680: libcurl info message cache 1 (Re-using existing connection! (#10) with host datarouter.ol.epicgames.com)
+[2018.12.15-13.57.58:763][151]LogHttp: Warning: 0000027F0ABD8680: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.232.136.228) port 443 (#10))
+[2018.12.15-13.57.58:763][151]LogHttp: Warning: 0000027F0ABD8680: libcurl info message cache 3 (upload completely sent off: 2943 out of 2943 bytes)
+[2018.12.15-13.57.58:763][151]LogHttp: Warning: 0000027F0ABD8680: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2018.12.15-13.57.58:763][151]LogHttp: Warning: 0000027F0ABD8680: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2018.12.15-13.57.58:763][151]LogHttp: Warning: 0000027F0ABD8680: libcurl info message cache 6 (Closing connection 10)
+[2018.12.15-13.57.58:763][151]LogHttp: Warning: 0000027F0ABD8680: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3FF28EF6-442A-FCDD-0C2C-0F8A041AD121%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=750775944090253e92c67cb14b82e528%7Cd3bdffa7536f40899bf7924fd6e47734%7Cac825bd1-af0a-4f9d-88ad-f28c447792cd&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2018.12.15-13.57.58:763][151]LogHttp: Warning: 0000027F0ABD8680: libcurl info message cache 8 (  Trying 52.200.123.101...)
+[2018.12.15-13.57.58:763][151]LogHttp: Warning: 0000027F0ABD8680: libcurl info message cache 9 (TCP_NODELAY set)
+[2018.12.15-13.57.58:763][151]LogHttp: Warning: 0000027F0ABD8680: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (52.200.123.101) port 443 (#11))
+[2018.12.15-13.57.58:763][151]LogHttp: Warning: 0000027F0ABD8680: libcurl info message cache 11 (ALPN, offering http/1.1)
+[2018.12.15-13.57.58:763][151]LogHttp: Warning: 0000027F0ABD8680: libcurl info message cache 12 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.12.15-13.57.58:763][151]LogHttp: Warning: 0000027F0ABD8680: libcurl info message cache 13 (SSL re-using session ID)
+[2018.12.15-13.57.58:763][151]LogHttp: Warning: 0000027F0ABD8680: libcurl info message cache 14 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.12.15-13.57.58:763][151]LogHttp: Warning: 0000027F0ABD8680: libcurl info message cache 15 (Operation timed out after 60000 milliseconds with 0 out of 0 bytes received)
+[2018.12.15-13.57.58:763][151]LogHttp: Warning: 0000027F0ABD8680: libcurl info message cache 16 (Closing connection 11)
+[2018.12.15-13.57.59:096][152]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3FF28EF6-442A-FCDD-0C2C-0F8A041AD121%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=750775944090253e92c67cb14b82e528%7Cd3bdffa7536f40899bf7924fd6e47734%7Cac825bd1-af0a-4f9d-88ad-f28c447792cd&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.12.15-14.02.10:622][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-14.02.14:567][377]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/PolyArtWolf/Animations/wolf_animation.wolf_animation
+[2018.12.15-14.02.15:460][377]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.12.15-14.02.16:326][377]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.15-14.02.16:363][377]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.12.15-14.02.16:838][377]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.15-14.02.17:936][377]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.12.15-14.02.18:022][377]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.12.15-14.02.56:218][589]BlueprintLog: New page: Compile wolfChar
+[2018.12.15-14.02.56:503][589]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.15-14.02.56:503][589]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.15-14.02.56:824][589]LogBlueprint: Warning: [Compiler wolfChar] [1852.84] Compile of wolfChar successful, but with 2 Warning(s) [in 605 ms] (/Game/ThirdPersonBP/Blueprints/wolfChar.wolfChar)
+[2018.12.15-14.02.58:413][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/wolfChar" FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset" SILENT=true
+[2018.12.15-14.02.58:734][646]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/wolfChar5AEC6C0145D5B00D40668BAAF7F58A29.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset'
+[2018.12.15-14.02.59:976][717]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-14.03.19:414][811]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/PolyArtWolf/Animations/Common/Wolf_C_Hawl.Wolf_C_Hawl
+[2018.12.15-14.03.19:815][811]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.15-14.03.19:881][811]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.15-14.03.20:489][811]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.12.15-14.03.40:472][985]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-14.03.41:033][998]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PolyArtWolf/Animations/InPlace/Wolf_IP_Jump_InPlace.Wolf_IP_Jump_InPlace
+[2018.12.15-14.03.41:066][998]LogAnimationCompression: Recompressing (AnimSequence /Game/PolyArtWolf/Animations/InPlace/Wolf_IP_Jump_InPlace.Wolf_IP_Jump_InPlace) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.15-14.04.40:009][384]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/PolyArtWolf/Animations/InPlace/Wolf_IP_Jump_InPlace.Wolf_IP_Jump_InPlace
+[2018.12.15-14.04.40:046][384]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.15-14.04.40:082][384]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.15-14.04.40:538][384]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.12.15-14.04.56:643][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-14.04.57:793][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PolyArtWolf/Animations/wolf_animation" FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/PolyArtWolf/Animations/wolf_animation.uasset" SILENT=true
+[2018.12.15-14.04.57:949][379]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/wolf_animation279CC734421DE8B0F019C0B5EABAE4BC.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/PolyArtWolf/Animations/wolf_animation.uasset'
+[2018.12.15-14.04.59:015][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-14.05.36:415][508]LogEditorTransaction: Undo Paste clipboard contents
+[2018.12.15-14.05.36:567][508]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.15-14.05.43:231][893]BlueprintLog: New page: Compile wolf_animation
+[2018.12.15-14.05.44:170][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PolyArtWolf/Animations/wolf_animation" FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/PolyArtWolf/Animations/wolf_animation.uasset" SILENT=true
+[2018.12.15-14.05.44:325][917]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/wolf_animationBFD47B9645748E17FEFFAC89F5F28E5C.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/PolyArtWolf/Animations/wolf_animation.uasset'
+[2018.12.15-14.06.02:508][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-14.06.29:329][562]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-14.06.29:412][567]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.15-14.06.29:437][567]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-14.06.29:437][567]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.15-14.06.29:567][567]LogPlayLevel: [PlayLevel] Compiling wolfChar before play...
+[2018.12.15-14.06.29:718][567]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.15-14.06.29:718][567]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.15-14.06.29:758][567]LogBlueprint: Warning: [Compiler wolfChar] [2065.77] Compile of wolfChar successful, but with 2 Warning(s) [in 215 ms] (/Game/ThirdPersonBP/Blueprints/wolfChar.wolfChar)
+[2018.12.15-14.06.30:043][567]LogPlayLevel: PlayLevel: Blueprint regeneration took 605 ms (1 blueprints)
+[2018.12.15-14.06.30:043][567]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 15, 2018, 4:06:30 AM)
+[2018.12.15-14.06.30:043][567]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.15-14.06.30:059][567]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015407s)
+[2018.12.15-14.06.30:059][567]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.15-14.06.30:059][567]LogPlayLevel: PIE: World Init took: (0.000582s)
+[2018.12.15-14.06.30:060][567]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016164s)
+[2018.12.15-14.06.30:105][567]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.15-14.06.30:160][567]LogInit: FAudioDevice initialized.
+[2018.12.15-14.06.30:192][567]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.15-14.06.30:197][567]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.12.15-09.06.30
+[2018.12.15-14.06.30:199][567]LogWorld: Bringing up level for play took: 0.004174
+[2018.12.15-14.06.30:218][567]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.282
+[2018.12.15-14.06.30:218][567]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-14.06.40:885][193]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-14.06.40:886][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.15-14.06.40:922][193]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.15-14.06.40:923][193]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-14.06.40:950][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.15-14.06.40:995][195]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2018.12.15-14.06.41:563][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-14.06.53:488][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-14.06.53:538][876]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.15-14.06.53:563][876]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-14.06.53:563][876]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.15-14.06.53:695][876]LogPlayLevel: [PlayLevel] Compiling wolfChar before play...
+[2018.12.15-14.06.53:849][876]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.15-14.06.53:849][876]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.15-14.06.53:886][876]LogBlueprint: Warning: [Compiler wolfChar] [2089.90] Compile of wolfChar successful, but with 2 Warning(s) [in 216 ms] (/Game/ThirdPersonBP/Blueprints/wolfChar.wolfChar)
+[2018.12.15-14.06.54:168][876]LogPlayLevel: PlayLevel: Blueprint regeneration took 605 ms (1 blueprints)
+[2018.12.15-14.06.54:168][876]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 15, 2018, 4:06:54 AM)
+[2018.12.15-14.06.54:168][876]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.15-14.06.54:181][876]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012916s)
+[2018.12.15-14.06.54:182][876]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.15-14.06.54:182][876]LogPlayLevel: PIE: World Init took: (0.000555s)
+[2018.12.15-14.06.54:182][876]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013588s)
+[2018.12.15-14.06.54:229][876]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.15-14.06.54:280][876]LogInit: FAudioDevice initialized.
+[2018.12.15-14.06.54:310][876]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.15-14.06.54:312][876]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.12.15-09.06.54
+[2018.12.15-14.06.54:312][876]LogWorld: Bringing up level for play took: 0.001649
+[2018.12.15-14.06.54:328][876]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.393
+[2018.12.15-14.06.54:328][876]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-14.07.11:437][891]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-14.07.11:438][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.15-14.07.11:471][891]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.15-14.07.11:472][891]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-14.07.11:508][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.15-14.07.11:537][893]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2018.12.15-14.07.12:318][936]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-14.07.24:823][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PolyArtWolf/Animations/wolf_animation" FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/PolyArtWolf/Animations/wolf_animation.uasset" SILENT=true
+[2018.12.15-14.07.24:973][644]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/wolf_animationF52010E6453992DAB30F3288C8451D79.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/PolyArtWolf/Animations/wolf_animation.uasset'
+[2018.12.15-14.07.25:359][658]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.15-14.07.26:688][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/wolfChar" FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset" SILENT=true
+[2018.12.15-14.07.27:008][732]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/wolfChar069E23474FCAA4A8CDB3D7AE2DFE4FB2.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset'
+[2018.12.15-14.07.27:604][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-14.07.44:875][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PolyArtWolf/Animations/wolf_animation" FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/PolyArtWolf/Animations/wolf_animation.uasset" SILENT=true
+[2018.12.15-14.07.45:034][742]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/wolf_animation8E1D9F8B44B5C0BDCF172B800D237DEC.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/PolyArtWolf/Animations/wolf_animation.uasset'
+[2018.12.15-14.07.45:499][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-14.08.14:870][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-14.08.19:823][736]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/effects/spell/projectile.projectile
+[2018.12.15-14.08.24:684][979]LogRenderer: Reallocating scene render targets to support 940x556 Format 10 NumSamples 1 (Frame:1).
+[2018.12.15-14.08.27:624][136]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-14.08.28:949][215]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-14.08.35:715][595]Cmd: DELETE
+[2018.12.15-14.08.35:715][595]Cmd: ACTOR DELETE
+[2018.12.15-14.08.36:060][595]LogEditorActor: Deleted Actor: projectile_C
+[2018.12.15-14.08.36:097][595]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2018.12.15-14.08.40:118][833]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-14.09.15:678][925]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/ThirdPersonExampleMap_Auto2EA40396543CD5469B59728B6F21DC93C.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2018.12.15-14.09.15:681][925]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.228
+[2018.12.15-14.09.15:681][925]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.228
+[2018.12.15-14.13.33:453][177]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-14.13.42:748][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-14.13.46:789][787]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.12.15-14.13.52:212][104]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/effects/spell/massZoneOfSpell.massZoneOfSpell
+[2018.12.15-14.19.16:306][129]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.396
+[2018.12.15-14.19.16:310][129]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/effects/spell/massZoneOfSpell] ([1] browsable assets)...
+[2018.12.15-14.19.16:310][129]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/effects/spell/massZoneOfSpell]
+[2018.12.15-14.19.16:339][129]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/massZoneOfSpell_Auto33FC82F1B4D3369CFDAD737A2829E3BED.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/effects/spell/massZoneOfSpell_Auto3.uasset'
+[2018.12.15-14.19.16:344][129]LogFileHelpers: Auto-saving content packages took 0.036
+[2018.12.15-14.22.14:736][  2]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/ThirdPersonExampleMap47ADD577496F2E6ED3A87398D7BF2216.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.12.15-14.22.14:884][  2]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/ThirdPersonExampleMap_BuiltDataF489138745296ABCC28B998E29557BEB.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.12.15-14.27.40:044][  9]LogSlate: Took 0.029973 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.12.15-14.32.25:001][758]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.038
+[2018.12.15-14.32.25:003][758]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/effects/spell/massZoneOfSpell] ([1] browsable assets)...
+[2018.12.15-14.32.25:003][758]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/effects/spell/massZoneOfSpell]
+[2018.12.15-14.32.25:021][758]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/massZoneOfSpell_Auto4EC0780F84423EBA965725CAF75676726.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/effects/spell/massZoneOfSpell_Auto4.uasset'
+[2018.12.15-14.32.25:022][758]LogFileHelpers: Auto-saving content packages took 0.020
+[2018.12.15-14.42.25:411][822]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.037
+[2018.12.15-14.42.25:412][822]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/effects/spell/massZoneOfSpell] ([1] browsable assets)...
+[2018.12.15-14.42.25:413][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/effects/spell/massZoneOfSpell]
+[2018.12.15-14.42.25:440][822]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/massZoneOfSpell_Auto570A24AB74EF675CEEBE141893CB041DF.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/effects/spell/massZoneOfSpell_Auto5.uasset'
+[2018.12.15-14.42.25:441][822]LogFileHelpers: Auto-saving content packages took 0.029
+[2018.12.15-14.49.49:700][964]BlueprintLog: New page: Compile massZoneOfSpell
+[2018.12.15-14.49.50:413][984]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/massZoneOfSpell9C73EFC24A093683958D669632E07AEE.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/effects/spell/massZoneOfSpell.uasset'
+[2018.12.15-14.50.58:947][943]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/massZoneOfSpellBD29AF064EF3406F609CAC84A3053405.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/effects/spell/massZoneOfSpell.uasset'
+[2018.12.15-14.53.21:740][628]BlueprintLog: New page: Compile massZoneOfSpell
+[2018.12.15-14.54.43:769][464]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/massZoneOfSpell85F91DA9485499D3A3DF6391DCAB90A9.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/effects/spell/massZoneOfSpell.uasset'
+[2018.12.15-14.54.44:478][506]BlueprintLog: New page: Compile massZoneOfSpell
+[2018.12.15-14.55.52:565][946]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.15-14.56.02:778][497]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.15-14.56.02:808][497]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-14.56.02:808][497]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.15-14.56.02:815][497]LogPlayLevel: [PlayLevel] Compiling massZoneOfSpell before play...
+[2018.12.15-14.56.02:997][497]LogPlayLevel: PlayLevel: Blueprint regeneration took 189 ms (1 blueprints)
+[2018.12.15-14.56.02:998][497]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 15, 2018, 4:56:02 AM)
+[2018.12.15-14.56.02:998][497]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.15-14.56.03:014][497]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016307s)
+[2018.12.15-14.56.03:015][497]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.15-14.56.03:015][497]LogPlayLevel: PIE: World Init took: (0.000794s)
+[2018.12.15-14.56.03:015][497]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017250s)
+[2018.12.15-14.56.03:057][497]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.15-14.56.03:105][497]LogInit: FAudioDevice initialized.
+[2018.12.15-14.56.03:138][497]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.15-14.56.03:140][497]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.12.15-09.56.03
+[2018.12.15-14.56.03:140][497]LogWorld: Bringing up level for play took: 0.001665
+[2018.12.15-14.56.03:156][497]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.221
+[2018.12.15-14.56.03:156][497]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-14.56.07:302][738]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-14.56.07:302][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.15-14.56.07:338][738]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.15-14.56.07:338][738]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-14.56.07:373][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.15-14.56.07:429][739]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2018.12.15-14.56.08:198][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-14.56.08:280][788]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.15-14.56.08:311][788]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-14.56.08:311][788]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.15-14.56.08:311][788]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 15, 2018, 4:56:08 AM)
+[2018.12.15-14.56.08:311][788]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.15-14.56.08:324][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011328s)
+[2018.12.15-14.56.08:324][788]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.15-14.56.08:324][788]LogPlayLevel: PIE: World Init took: (0.001061s)
+[2018.12.15-14.56.08:324][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012630s)
+[2018.12.15-14.56.08:362][788]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.15-14.56.08:408][788]LogInit: FAudioDevice initialized.
+[2018.12.15-14.56.08:444][788]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.15-14.56.08:446][788]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.12.15-09.56.08
+[2018.12.15-14.56.08:447][788]LogWorld: Bringing up level for play took: 0.001898
+[2018.12.15-14.56.08:462][788]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.473
+[2018.12.15-14.56.08:462][788]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-14.56.12:439][ 17]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-14.56.12:439][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.15-14.56.12:477][ 17]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.15-14.56.12:477][ 17]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-14.56.12:512][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.15-14.56.12:565][ 18]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2018.12.15-14.56.13:438][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-14.56.48:761][169]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.036
+[2018.12.15-14.56.48:763][169]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/effects/spell/massZoneOfSpell] ([1] browsable assets)...
+[2018.12.15-14.56.48:763][169]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/effects/spell/massZoneOfSpell]
+[2018.12.15-14.56.48:808][169]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/massZoneOfSpell_Auto683FCB1644DA775F5689A7BA3475460CA.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/effects/spell/massZoneOfSpell_Auto6.uasset'
+[2018.12.15-14.56.48:810][169]LogFileHelpers: Auto-saving content packages took 0.047
+[2018.12.15-14.57.21:060][ 93]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.15-14.58.20:772][627]BlueprintLog: New page: Compile massZoneOfSpell
+[2018.12.15-14.58.21:533][645]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/massZoneOfSpell099B663040D667CF010E0FB57227965E.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/effects/spell/massZoneOfSpell.uasset'
+[2018.12.15-14.59.00:673][955]BlueprintLog: New page: Compile massZoneOfSpell
+[2018.12.15-14.59.34:207][887]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.15-15.00.00:505][340]BlueprintLog: New page: Compile wolfChar
+[2018.12.15-15.00.00:791][340]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.15-15.00.00:791][340]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.15-15.00.01:113][340]LogBlueprint: Warning: [Compiler wolfChar] [5277.12] Compile of wolfChar successful, but with 2 Warning(s) [in 607 ms] (/Game/ThirdPersonBP/Blueprints/wolfChar.wolfChar)
+[2018.12.15-15.00.48:544][ 84]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.15-15.00.48:575][ 84]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-15.00.48:575][ 84]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.15-15.00.48:706][ 84]LogPlayLevel: [PlayLevel] Compiling wolfChar before play...
+[2018.12.15-15.00.48:853][ 84]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.15-15.00.48:853][ 84]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.15-15.00.48:891][ 84]LogBlueprint: Warning: [Compiler wolfChar] [5324.90] Compile of wolfChar successful, but with 2 Warning(s) [in 211 ms] (/Game/ThirdPersonBP/Blueprints/wolfChar.wolfChar)
+[2018.12.15-15.00.49:189][ 84]LogPlayLevel: PlayLevel: Blueprint regeneration took 614 ms (1 blueprints)
+[2018.12.15-15.00.49:189][ 84]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 15, 2018, 5:00:49 AM)
+[2018.12.15-15.00.49:189][ 84]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.15-15.00.49:202][ 84]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012690s)
+[2018.12.15-15.00.49:203][ 84]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.15-15.00.49:203][ 84]LogPlayLevel: PIE: World Init took: (0.000940s)
+[2018.12.15-15.00.49:203][ 84]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013831s)
+[2018.12.15-15.00.49:252][ 84]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.15-15.00.49:303][ 84]LogInit: FAudioDevice initialized.
+[2018.12.15-15.00.49:337][ 84]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.15-15.00.49:339][ 84]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.12.15-10.00.49
+[2018.12.15-15.00.49:340][ 84]LogWorld: Bringing up level for play took: 0.001665
+[2018.12.15-15.00.49:355][ 84]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.419
+[2018.12.15-15.00.49:355][ 84]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-15.00.55:978][472]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-15.00.55:978][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.15-15.00.56:012][472]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.15-15.00.56:012][472]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-15.00.56:047][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.15-15.00.56:106][473]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2018.12.15-15.00.56:623][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-15.01.11:529][308]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.15-15.01.11:558][308]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-15.01.11:558][308]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.15-15.01.11:691][308]LogPlayLevel: [PlayLevel] Compiling wolfChar before play...
+[2018.12.15-15.01.11:838][308]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.15-15.01.11:838][308]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.15-15.01.11:882][308]LogBlueprint: Warning: [Compiler wolfChar] [5347.89] Compile of wolfChar successful, but with 2 Warning(s) [in 218 ms] (/Game/ThirdPersonBP/Blueprints/wolfChar.wolfChar)
+[2018.12.15-15.01.12:172][308]LogPlayLevel: PlayLevel: Blueprint regeneration took 614 ms (1 blueprints)
+[2018.12.15-15.01.12:173][308]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 15, 2018, 5:01:12 AM)
+[2018.12.15-15.01.12:173][308]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.15-15.01.12:185][308]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012037s)
+[2018.12.15-15.01.12:186][308]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.15-15.01.12:186][308]LogPlayLevel: PIE: World Init took: (0.001015s)
+[2018.12.15-15.01.12:186][308]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013204s)
+[2018.12.15-15.01.12:232][308]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.15-15.01.12:284][308]LogInit: FAudioDevice initialized.
+[2018.12.15-15.01.12:316][308]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.15-15.01.12:318][308]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.12.15-10.01.12
+[2018.12.15-15.01.12:318][308]LogWorld: Bringing up level for play took: 0.001514
+[2018.12.15-15.01.12:334][308]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.398
+[2018.12.15-15.01.12:334][308]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-15.01.32:810][530]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-15.01.32:811][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.15-15.01.32:848][530]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.15-15.01.32:848][530]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.15-15.01.32:878][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.15-15.01.32:932][531]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2018.12.15-15.01.34:243][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.15-15.01.34:845][610]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/ThirdPersonExampleMap9F3196E54375CB0E7C1F6A8D589F521C.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.12.15-15.01.34:991][610]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/ThirdPersonExampleMap_BuiltData252DF3C7401B4038D5A3C78E64B41BFC.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.12.15-15.01.37:283][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/wolfChar" FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset" SILENT=true
+[2018.12.15-15.01.37:610][735]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/wolfCharF96715D541987E48C0B61EB538A33B11.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/wolfChar.uasset'
+[2018.12.15-15.01.37:660][735]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/massZoneOfSpell7971C72749A679038DB34E87929A4212.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/effects/spell/massZoneOfSpell.uasset'
+[2018.12.15-15.02.53:429][719]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/ThirdPersonExampleMap572D7E2E4DD1CF9FB51F0E8D1658FE74.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.12.15-15.02.53:565][719]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/ThirdPersonExampleMap_BuiltData440E74D447295C0277D3FAA53F9149F1.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.12.15-15.03.00:799][108]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.15-15.03.00:854][108]LogSlate: Window 'projectile' being destroyed
+[2018.12.15-15.03.00:863][108]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.15-15.03.00:919][108]LogSlate: Window 'wolfy - Unreal Editor' being destroyed
+[2018.12.15-15.03.00:939][108]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.15-15.03.01:211][109]Cmd: QUIT_EDITOR
+[2018.12.15-15.03.02:841][109]LogExit: Preparing to exit.
+[2018.12.15-15.03.05:080][109]LogExit: Editor shut down
+[2018.12.15-15.03.05:082][109]LogExit: Transaction tracking system shut down
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
