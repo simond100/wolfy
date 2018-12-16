@@ -1,0 +1,1167 @@
+﻿Log file open, 12/16/18 14:05:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: wolfy
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.278690
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.081s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program files/Unreal/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.12.16-19.05.29:368][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.12.16-19.05.29:368][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.12.16-19.05.29:368][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.16-19.05.29:368][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.12.16-19.05.29:368][  0]LogConfig: Setting CVar [[r.CustomDepth:3]]
+[2018.12.16-19.05.29:368][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.16-19.05.29:368][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.16-19.05.29:368][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.12.16-19.05.29:368][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.12.16-19.05.29:368][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.12.16-19.05.29:368][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.12.16-19.05.29:368][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.12.16-19.05.29:368][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.12.16-19.05.29:368][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.12.16-19.05.29:368][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.12.16-19.05.29:368][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.12.16-19.05.29:368][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.12.16-19.05.29:368][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.12.16-19.05.29:368][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.12.16-19.05.29:368][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.12.16-19.05.29:368][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.16-19.05.29:368][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.12.16-19.05.29:368][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.12.16-19.05.29:368][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.12.16-19.05.29:368][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.12.16-19.05.29:368][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.12.16-19.05.29:368][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.12.16-19.05.29:368][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.12.16-19.05.29:368][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.12.16-19.05.29:368][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.12.16-19.05.29:368][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.12.16-19.05.29:368][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.12.16-19.05.29:368][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.12.16-19.05.29:368][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.12.16-19.05.29:368][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.12.16-19.05.29:368][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.16-19.05.29:368][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.16-19.05.29:371][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.16-19.05.29:371][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.16-19.05.29:372][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.16-19.05.29:372][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.16-19.05.29:372][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.16-19.05.29:372][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.16-19.05.29:372][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.16-19.05.29:372][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.16-19.05.29:372][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.16-19.05.29:372][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.16-19.05.29:372][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.16-19.05.29:372][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.16-19.05.29:372][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.16-19.05.29:372][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.16-19.05.29:372][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.16-19.05.29:372][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.16-19.05.29:372][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.16-19.05.29:372][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.16-19.05.29:391][  0]LogHAL: Display: Platform has ~ 16 GB [17055186944 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.16-19.05.29:391][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.12.16-19.05.29:391][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.16-19.05.29:391][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.16-19.05.29:391][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.16-19.05.29:391][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.16-19.05.29:391][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.16-19.05.29:391][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.16-19.05.29:391][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.16-19.05.29:391][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.16-19.05.29:391][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.16-19.05.29:391][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.16-19.05.29:391][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.16-19.05.29:391][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.16-19.05.29:391][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.16-19.05.29:391][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.16-19.05.29:391][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.16-19.05.29:391][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.16-19.05.29:391][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.16-19.05.29:391][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.16-19.05.29:391][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.16-19.05.29:391][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.16-19.05.29:391][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.16-19.05.29:391][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.16-19.05.29:391][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.16-19.05.29:391][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.16-19.05.29:391][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.16-19.05.29:391][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.16-19.05.29:391][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.16-19.05.29:391][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.16-19.05.29:391][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.16-19.05.29:391][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.16-19.05.29:391][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.16-19.05.29:391][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.12.16-19.05.29:392][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.12.16-19.05.29:392][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.16-19.05.29:392][  0]LogInit: Computer: LAPTOP-6ORP0FSQ
+[2018.12.16-19.05.29:392][  0]LogInit: User: simon
+[2018.12.16-19.05.29:392][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.16-19.05.29:392][  0]LogInit: High frequency timer resolution =2.742188 MHz
+[2018.12.16-19.05.29:393][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.12.16-19.05.29:393][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.16-19.05.29:393][  0]LogMemory: Process Physical Memory: 104.11 MB used, 104.11 MB peak
+[2018.12.16-19.05.29:393][  0]LogMemory: Process Virtual Memory: 98.39 MB used, 98.39 MB peak
+[2018.12.16-19.05.29:393][  0]LogMemory: Physical Memory: 7170.21 MB used,  9094.89 MB free, 16265.09 MB total
+[2018.12.16-19.05.29:393][  0]LogMemory: Virtual Memory: 4660.80 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2018.12.16-19.05.29:411][  0]LogInit: Using OS detected language (en-US).
+[2018.12.16-19.05.29:411][  0]LogInit: Using OS detected locale (en-CA).
+[2018.12.16-19.05.29:412][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.16-19.05.29:820][  0]LogStreaming: Display: Took  0.408s to InitEngineTextLocalization.
+[2018.12.16-19.05.29:820][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.16-19.05.29:857][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.16-19.05.29:857][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.16-19.05.30:090][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.16-19.05.30:090][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.16-19.05.30:169][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.12.16-19.05.30:169][  0]LogD3D11RHI:       4021/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.12.16-19.05.30:177][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.12.16-19.05.30:177][  0]LogD3D11RHI:       128/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.12.16-19.05.30:179][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.16-19.05.30:179][  0]LogD3D11RHI:       0/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.16-19.05.30:179][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.16-19.05.30:212][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.16-19.05.30:212][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2018.12.16-19.05.30:212][  0]LogWindows: EnumDisplayDevices:
+[2018.12.16-19.05.30:213][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.12.16-19.05.30:213][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.12.16-19.05.30:213][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.12.16-19.05.30:213][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.12.16-19.05.30:213][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.12.16-19.05.30:213][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.12.16-19.05.30:213][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.12.16-19.05.30:213][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2018.12.16-19.05.30:260][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.16-19.05.30:298][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.16-19.05.30:625][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.16-19.05.30:638][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.16-19.05.30:651][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.16-19.05.30:664][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.16-19.05.30:679][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.16-19.05.30:693][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.16-19.05.30:706][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.16-19.05.30:719][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.16-19.05.30:725][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.16-19.05.30:812][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.16-19.05.30:812][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.16-19.05.30:812][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.16-19.05.30:812][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.16-19.05.30:812][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.16-19.05.30:812][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.16-19.05.30:812][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.16-19.05.30:812][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.16-19.05.30:812][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.16-19.05.30:812][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.16-19.05.30:812][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.16-19.05.30:812][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.16-19.05.30:812][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.16-19.05.30:812][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.16-19.05.30:812][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.16-19.05.30:812][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.16-19.05.30:812][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.16-19.05.30:812][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.16-19.05.30:813][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.16-19.05.30:873][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.16-19.05.30:873][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.16-19.05.30:895][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.16-19.05.30:895][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.16-19.05.30:907][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.16-19.05.30:921][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.16-19.05.30:933][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.16-19.05.30:946][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.16-19.05.31:000][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.16-19.05.31:000][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.16-19.05.31:000][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.16-19.05.31:041][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Intermediate/Shaders/WorkingDirectory/19208/).
+[2018.12.16-19.05.31:041][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/simon/AppData/Local/Temp/UnrealShaderWorkingDir/9D553462403BBB44F32719A4626BA2EA/'.
+[2018.12.16-19.05.31:043][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.16-19.05.31:043][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.16-19.05.31:043][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.16-19.05.31:659][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.16-19.05.31:716][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/simon/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.16-19.05.31:716][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/simon/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.12.16-19.05.31:716][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.16-19.05.31:716][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.16-19.05.31:716][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.16-19.05.31:716][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.16-19.05.31:732][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.16-19.05.31:732][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.16-19.05.31:732][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2018.12.16-19.05.31:745][  0]LogDerivedDataCache: Using Local data cache path C:/Users/simon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.16-19.05.31:745][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.16-19.05.31:745][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.16-19.05.31:770][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.16-19.05.31:771][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.16-19.05.31:772][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.16-19.05.31:864][  0]LogAssetRegistry: FAssetRegistry took 0.0345 seconds to start up
+[2018.12.16-19.05.32:217][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.16-19.05.32:367][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.16-19.05.32:370][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.16-19.05.32:370][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.16-19.05.32:370][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.16-19.05.32:370][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.16-19.05.32:385][  0]LogNetVersion: wolfy 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1840138777)
+[2018.12.16-19.05.32:990][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.113327 seconds
+[2018.12.16-19.05.32:996][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.12.16-19.05.32:996][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2018.12.16-19.05.32:996][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.16-19.05.33:888][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.16-19.05.33:902][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.16-19.05.34:624][  0]SourceControl: Source control is disabled
+[2018.12.16-19.05.34:624][  0]SourceControl: Source control is disabled
+[2018.12.16-19.05.34:625][  0]SourceControl: Source control is disabled
+[2018.12.16-19.05.34:626][  0]SourceControl: Source control is disabled
+[2018.12.16-19.05.34:786][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.16-19.05.34:867][  0]LogOcInput: OculusInput pre-init called
+[2018.12.16-19.05.34:998][  0]LogEngine: Initializing Engine...
+[2018.12.16-19.05.34:999][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.16-19.05.35:000][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.16-19.05.35:000][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.16-19.05.35:000][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.16-19.05.35:000][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.16-19.05.35:250][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.16-19.05.35:260][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.16-19.05.35:281][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.16-19.05.35:474][  0]LogInit: FAudioDevice initialized.
+[2018.12.16-19.05.35:474][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.16-19.05.35:582][  0]LogDerivedDataCache: Saved boot cache 0.11s 71MB C:/Users/simon/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.16-19.05.35:598][  0]LogInit: Texture streaming: Enabled
+[2018.12.16-19.05.35:609][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.16-19.05.35:620][  0]LogInit: Transaction tracking system initialized
+[2018.12.16-19.05.35:636][  0]BlueprintLog: New page: Editor Load
+[2018.12.16-19.05.35:702][  0]LocalizationService: Localization service is disabled
+[2018.12.16-19.05.36:172][  0]LogFileCache: Scanning file cache for directory 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/' took 0.02s
+[2018.12.16-19.05.36:172][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.16-19.05.36:172][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.16-19.05.36:172][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.16-19.05.36:172][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.16-19.05.36:172][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.16-19.05.36:172][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.16-19.05.36:172][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.16-19.05.36:279][  0]SourceControl: Source control is disabled
+[2018.12.16-19.05.36:279][  0]Cmd: MAP LOAD FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.16-19.05.36:284][  0]LightingResults: New page: Lighting Build
+[2018.12.16-19.05.36:285][  0]MapCheck: New page: Map Check
+[2018.12.16-19.05.36:285][  0]LightingResults: New page: Lighting Build
+[2018.12.16-19.05.37:278][  0]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.16-19.05.37:279][  0]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.16-19.05.37:432][  0]LogBlueprint: Warning: [Compiler wolfChar] [0009.76] Compile of wolfChar successful, but with 2 Warning(s) [in 358 ms] (/Game/ThirdPersonBP/Blueprints/wolfChar.wolfChar)
+[2018.12.16-19.05.38:581][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.16-19.05.38:595][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.16-19.05.38:634][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.16-19.05.38:634][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.178ms to complete.
+[2018.12.16-19.05.38:635][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 2.356
+[2018.12.16-19.05.38:749][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-19.05.38:756][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-19.05.38:765][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-19.05.38:772][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-19.05.38:782][  0]LogCollectionManager: Loaded 0 collections in 0.000924 seconds
+[2018.12.16-19.05.38:796][  0]LogFileCache: Scanning file cache for directory 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Collections/' took 0.01s
+[2018.12.16-19.05.38:796][  0]LogFileCache: Scanning file cache for directory 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/Developers/simon/Collections/' took 0.00s
+[2018.12.16-19.05.38:796][  0]LogFileCache: Scanning file cache for directory 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/Collections/' took 0.00s
+[2018.12.16-19.05.38:796][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.16-19.05.38:805][  0]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2651 classes and 620 folders.
+[2018.12.16-19.05.38:810][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.16-19.05.38:816][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-19.05.38:826][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-19.05.38:853][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-19.05.38:861][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-19.05.38:866][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-19.05.38:872][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-19.05.38:879][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-19.05.38:884][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-19.05.38:892][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-19.05.38:899][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-19.05.38:905][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-19.05.38:911][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-19.05.38:917][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-19.05.38:923][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-19.05.38:930][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-19.05.38:936][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-19.05.38:975][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-19.05.38:982][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-19.05.38:988][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-19.05.38:994][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-19.05.39:042][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-19.05.39:048][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-19.05.39:054][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-19.05.39:062][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-19.05.39:068][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-19.05.39:073][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.16-19.05.39:201][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.16-19.05.39:219][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.12.16-19.05.39:240][  0]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.16-19.05.39:244][  0]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.16-19.05.39:260][  0]LogSlate: Took 0.008734 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.16-19.05.39:414][  0]LogRenderer: Reallocating scene render targets to support 940x464 Format 10 NumSamples 1 (Frame:1).
+[2018.12.16-19.05.39:492][  0]LogSlate: Took 0.006310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.16-19.05.39:570][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.16-19.05.39:570][  0]LogLoad: (Engine Initialization) Total time: 11.90 seconds
+[2018.12.16-19.05.39:570][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.16-19.05.39:589][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.16-19.05.39:648][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.16-19.05.40:336][  7]LogAssetRegistry: Asset discovery search completed in 8.4943 seconds
+[2018.12.16-19.05.40:337][  7]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.16-19.05.40:337][  7]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000042 seconds (updated 0 objects)
+[2018.12.16-19.05.42:648][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-19.11.42:548][632]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.16-19.11.42:556][632]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/NPCs/ennemies.ennemies
+[2018.12.16-19.11.43:116][632]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 117 classes and 0 folders.
+[2018.12.16-19.11.43:932][632]LogSlate: Took 0.004853 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.16-19.11.44:222][633]LogSlate: Took 0.005434 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.16-19.12.05:761][920]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/NPCs/basicEnnemies_rename_/basicEnnemie.basicEnnemie
+[2018.12.16-19.12.08:648][ 60]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/ThirdPersonBP/Blueprints/NPCs/basicEnnemies_rename_/anim_boy.anim_boy
+[2018.12.16-19.12.08:696][ 60]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.12.16-19.12.08:916][ 60]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.16-19.12.08:918][ 60]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.12.16-19.12.09:197][ 60]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.16-19.12.09:529][ 60]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.12.16-19.12.09:565][ 60]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.12.16-19.12.17:197][513]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ThirdPersonBP/Blueprints/NPCs/basicEnnemies_rename_/boy_anim_list/boy_Anim_attack2_WeaponTwoHand_.boy_Anim_attack2_WeaponTwoHand_
+[2018.12.16-19.12.17:211][513]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.16-19.12.17:247][513]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.16-19.12.17:768][513]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.12.16-19.14.51:545][497]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/PolyArtWolf/Animations/wolf_animation.wolf_animation
+[2018.12.16-19.14.51:563][497]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.16-19.14.51:834][497]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.16-19.14.52:175][497]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.12.16-19.18.57:355][ 93]BlueprintLog: New page: Compile ennemies
+[2018.12.16-19.18.58:424][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/NPCs/ennemies" FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/NPCs/ennemies.uasset" SILENT=true
+[2018.12.16-19.18.58:504][127]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/ennemies1683299349524B857D580AB68390AA7B.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/NPCs/ennemies.uasset'
+[2018.12.16-19.19.19:286][334]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/ThirdPersonExampleMap5A0FA70247612B7425BBD2BC47E04B06.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.12.16-19.19.19:326][334]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.277
+[2018.12.16-19.19.19:450][334]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/anim_boy1BF2EE5447D1258ABB4897AEA7B2C31B.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/NPCs/basicEnnemies_rename_/anim_boy.uasset'
+[2018.12.16-19.19.20:158][367]BlueprintLog: New page: Compile anim_boy
+[2018.12.16-19.21.41:577][872]BlueprintLog: New page: Compile anim_boy
+[2018.12.16-19.21.42:452][896]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/anim_boy09765F104367AC84F7BDDDBA2FE1AEC3.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/NPCs/basicEnnemies_rename_/anim_boy.uasset'
+[2018.12.16-19.21.58:565][847]BlueprintLog: New page: Compile anim_boy
+[2018.12.16-19.21.58:594][847]LogBlueprint: Warning: [Compiler anim_boy] boy_Anim_run_WeaponTwoHand_ to boy_Anim_death_WeaponTwoHand_  will never be taken, please connect something to  Can Enter Transition
+[2018.12.16-19.21.58:761][847]LogBlueprint: Warning: [Compiler anim_boy] [0991.09] Compile of anim_boy successful, but with 1 Warning(s) [in 195 ms] (/Game/ThirdPersonBP/Blueprints/NPCs/basicEnnemies_rename_/anim_boy.anim_boy)
+[2018.12.16-19.22.12:978][679]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-19.22.13:017][679]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.16-19.22.13:018][679]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.16-19.22.13:028][679]LogPlayLevel: [PlayLevel] Compiling anim_boy before play...
+[2018.12.16-19.22.13:219][679]LogPlayLevel: PlayLevel: Blueprint regeneration took 201 ms (1 blueprints)
+[2018.12.16-19.22.13:219][679]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 16, 2018, 9:22:13 AM)
+[2018.12.16-19.22.13:232][679]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.16-19.22.13:246][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014305s)
+[2018.12.16-19.22.13:247][679]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.16-19.22.13:248][679]LogPlayLevel: PIE: World Init took: (0.001121s)
+[2018.12.16-19.22.13:248][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015803s)
+[2018.12.16-19.22.13:292][679]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.16-19.22.13:338][679]LogInit: FAudioDevice initialized.
+[2018.12.16-19.22.13:416][679]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.16-19.22.13:419][679]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.12.16-14.22.13
+[2018.12.16-19.22.13:420][679]LogWorld: Bringing up level for play took: 0.001894
+[2018.12.16-19.22.13:439][679]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2018.12.16-19.22.13:444][679]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.385
+[2018.12.16-19.22.13:444][679]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.16-19.22.16:832][875]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.22.17:332][905]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.22.17:831][935]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.22.18:332][965]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.22.18:831][995]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.22.19:332][ 25]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.22.19:832][ 55]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.22.20:332][ 85]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.22.20:832][115]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.22.21:332][145]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.22.21:832][175]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.22.22:332][205]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.22.23:832][295]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.22.24:333][325]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.22.25:832][415]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.22.26:333][445]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.22.26:600][461]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.16-19.22.26:600][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-19.22.26:642][461]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-19.22.26:642][461]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.16-19.22.26:682][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-19.22.26:733][462]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2018.12.16-19.22.28:171][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-19.22.55:868][196]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ThirdPersonBP/Blueprints/NPCs/basicEnnemies_rename_/boy_anim_list/boy_Anim_take_WeaponTwoHand_.boy_Anim_take_WeaponTwoHand_
+[2018.12.16-19.22.55:884][196]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.16-19.22.55:920][196]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.16-19.22.56:382][196]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.12.16-19.23.32:111][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-19.23.47:327][134]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ThirdPersonBP/Blueprints/NPCs/basicEnnemies_rename_/boy_anim_list/boy_Anim_attack2_WeaponTwoHand_.boy_Anim_attack2_WeaponTwoHand_
+[2018.12.16-19.23.59:081][799]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ThirdPersonBP/Blueprints/NPCs/basicEnnemies_rename_/boy_anim_list/boy_Anim_hit_WeaponTwoHand_.boy_Anim_hit_WeaponTwoHand_
+[2018.12.16-19.23.59:097][799]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_45:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.16-19.23.59:132][799]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_45:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.16-19.23.59:578][799]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.12.16-19.24.22:246][108]BlueprintLog: New page: Compile anim_boy
+[2018.12.16-19.24.23:093][132]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/anim_boy0FE21FC341133DF591A55AA8B112AB43.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/NPCs/basicEnnemies_rename_/anim_boy.uasset'
+[2018.12.16-19.24.33:606][746]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/anim_boy3BBCE3714162E481379F669240C7071B.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/NPCs/basicEnnemies_rename_/anim_boy.uasset'
+[2018.12.16-19.24.34:145][774]BlueprintLog: New page: Compile anim_boy
+[2018.12.16-19.24.37:945][962]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/anim_boy75E3A8A448A5DDA9453FAEB2C5DB172F.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/NPCs/basicEnnemies_rename_/anim_boy.uasset'
+[2018.12.16-19.28.17:609][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/NPCs/ennemies" FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/NPCs/ennemies.uasset" SILENT=true
+[2018.12.16-19.28.17:685][ 59]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/ennemiesD5F40BD14FECE391DBCA79BF22CF75DB.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/NPCs/ennemies.uasset'
+[2018.12.16-19.29.35:893][716]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(296)].
+[2018.12.16-19.29.35:964][716]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.034
+[2018.12.16-19.29.35:966][716]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/NPCs/ennemies] ([1] browsable assets)...
+[2018.12.16-19.29.35:966][716]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/NPCs/ennemies]
+[2018.12.16-19.29.36:032][716]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/ennemies_Auto14AFFD33C44477E4D32C663B8ED2A36FE.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/NPCs/ennemies_Auto1.uasset'
+[2018.12.16-19.29.36:036][716]LogFileHelpers: Auto-saving content packages took 0.071
+[2018.12.16-19.32.31:004][141]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/wolfChar.wolfChar
+[2018.12.16-19.35.11:733][102]LogSlate: Took 0.006148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.12.16-19.36.49:895][ 85]BlueprintLog: New page: Compile ennemies
+[2018.12.16-19.36.51:349][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/NPCs/ennemies" FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/NPCs/ennemies.uasset" SILENT=true
+[2018.12.16-19.36.51:432][106]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/ennemiesE054D8EC40AEC4E511A578B0E828D5D3.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/NPCs/ennemies.uasset'
+[2018.12.16-19.37.02:193][678]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-19.37.02:242][678]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.16-19.37.02:243][678]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.16-19.37.02:243][678]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 16, 2018, 9:37:02 AM)
+[2018.12.16-19.37.02:243][678]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.16-19.37.02:257][678]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014104s)
+[2018.12.16-19.37.02:258][678]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.16-19.37.02:258][678]LogPlayLevel: PIE: World Init took: (0.000709s)
+[2018.12.16-19.37.02:258][678]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014942s)
+[2018.12.16-19.37.02:300][678]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.16-19.37.02:348][678]LogInit: FAudioDevice initialized.
+[2018.12.16-19.37.02:383][678]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.16-19.37.02:385][678]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.12.16-14.37.02
+[2018.12.16-19.37.02:385][678]LogWorld: Bringing up level for play took: 0.001594
+[2018.12.16-19.37.02:400][678]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.658
+[2018.12.16-19.37.02:400][678]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.16-19.37.05:379][850]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.37.06:879][940]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.37.08:378][ 30]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.37.08:545][ 40]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.37.08:745][ 52]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.37.08:879][ 60]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.37.08:945][ 64]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.37.09:145][ 76]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.37.09:345][ 88]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.37.09:379][ 90]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.37.09:545][100]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.37.09:745][112]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.37.09:945][124]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.37.10:146][136]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.37.10:345][148]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.37.10:545][160]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.37.10:745][172]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.37.10:879][180]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.37.10:945][184]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.37.11:145][196]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.37.11:345][208]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.37.12:379][270]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.37.13:178][318]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.37.13:379][330]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.37.13:578][342]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.37.13:778][354]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.37.13:879][360]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.37.13:978][366]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.37.14:179][378]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.37.14:379][390]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.37.14:429][393]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.16-19.37.14:430][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-19.37.14:469][393]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-19.37.14:469][393]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.16-19.37.14:509][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-19.37.14:573][394]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2018.12.16-19.37.15:489][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-19.37.58:111][522]BlueprintLog: New page: Compile ennemies
+[2018.12.16-19.37.59:497][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/NPCs/ennemies" FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/NPCs/ennemies.uasset" SILENT=true
+[2018.12.16-19.37.59:571][545]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/ennemiesF3E795F044EE70F12B171A8A07F1890C.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/NPCs/ennemies.uasset'
+[2018.12.16-19.38.04:742][812]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-19.38.04:791][812]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.16-19.38.04:791][812]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.16-19.38.04:791][812]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 16, 2018, 9:38:04 AM)
+[2018.12.16-19.38.04:791][812]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.16-19.38.04:804][812]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013186s)
+[2018.12.16-19.38.04:804][812]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.16-19.38.04:805][812]LogPlayLevel: PIE: World Init took: (0.000545s)
+[2018.12.16-19.38.04:805][812]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013848s)
+[2018.12.16-19.38.04:851][812]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.16-19.38.04:899][812]LogInit: FAudioDevice initialized.
+[2018.12.16-19.38.04:934][812]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.16-19.38.04:936][812]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.12.16-14.38.04
+[2018.12.16-19.38.04:936][812]LogWorld: Bringing up level for play took: 0.001571
+[2018.12.16-19.38.04:951][812]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.108
+[2018.12.16-19.38.04:952][812]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.16-19.38.08:324][  8]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.38.09:825][ 98]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.38.11:324][188]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.38.11:424][194]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.11:623][206]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.11:823][218]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.11:824][218]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.38.12:024][230]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.12:223][242]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.12:324][248]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.38.12:424][254]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.12:623][266]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.12:824][278]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.13:024][290]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.13:224][302]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.13:424][314]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.13:623][326]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.13:824][338]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.13:824][338]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.38.14:023][350]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.14:224][362]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.14:324][368]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.38.14:824][398]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.38.14:974][407]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.15:174][419]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.15:324][428]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.38.15:374][431]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.15:574][443]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.15:774][455]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.15:824][458]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.38.15:974][467]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.16:174][479]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.16:374][491]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.16:574][503]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.16:774][515]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.16:976][527]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.17:174][539]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.17:324][548]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.38.17:374][551]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.17:574][563]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.17:774][575]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.18:825][638]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.38.18:974][647]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.19:174][659]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.19:324][668]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.38.19:375][671]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.19:574][683]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.19:775][695]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.19:825][698]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.38.19:974][707]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.20:174][719]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.20:374][731]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.20:574][743]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.20:774][755]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.20:974][767]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.21:174][779]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.21:325][788]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.38.21:375][791]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.21:574][803]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.21:775][815]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.22:825][878]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.38.23:725][932]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.23:925][944]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.24:125][956]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.24:325][968]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.24:325][968]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.38.24:525][980]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.24:725][992]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.24:925][  4]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.25:125][ 16]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.25:325][ 28]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.25:525][ 40]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.25:725][ 52]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.25:826][ 58]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.38.25:925][ 64]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.26:125][ 76]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.26:325][ 88]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.38.27:810][177]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.16-19.38.27:810][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-19.38.27:846][177]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-19.38.27:846][177]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.16-19.38.27:884][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-19.38.27:935][178]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2018.12.16-19.38.28:710][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-19.38.28:826][229]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-19.38.28:862][229]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.16-19.38.28:863][229]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.16-19.38.28:863][229]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 16, 2018, 9:38:28 AM)
+[2018.12.16-19.38.28:863][229]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.16-19.38.28:877][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013587s)
+[2018.12.16-19.38.28:877][229]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.16-19.38.28:877][229]LogPlayLevel: PIE: World Init took: (0.000538s)
+[2018.12.16-19.38.28:877][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014249s)
+[2018.12.16-19.38.28:916][229]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.16-19.38.28:965][229]LogInit: FAudioDevice initialized.
+[2018.12.16-19.38.28:998][229]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.16-19.38.29:001][229]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.12.16-14.38.29
+[2018.12.16-19.38.29:001][229]LogWorld: Bringing up level for play took: 0.001516
+[2018.12.16-19.38.29:016][229]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.043
+[2018.12.16-19.38.29:016][229]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.16-19.38.31:991][400]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.38.32:491][430]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.38.35:824][630]LogBlueprintUserMessages: [basicEnnemie_2] 30
+[2018.12.16-19.38.36:024][642]LogBlueprintUserMessages: [basicEnnemie_2] 30
+[2018.12.16-19.38.36:224][654]LogBlueprintUserMessages: [basicEnnemie_2] 30
+[2018.12.16-19.38.36:425][666]LogBlueprintUserMessages: [basicEnnemie_2] 30
+[2018.12.16-19.38.36:625][678]LogBlueprintUserMessages: [basicEnnemie_2] 30
+[2018.12.16-19.38.36:825][690]LogBlueprintUserMessages: [basicEnnemie_2] 30
+[2018.12.16-19.38.37:025][702]LogBlueprintUserMessages: [basicEnnemie_2] 30
+[2018.12.16-19.38.37:225][714]LogBlueprintUserMessages: [basicEnnemie_2] 30
+[2018.12.16-19.38.37:425][726]LogBlueprintUserMessages: [basicEnnemie_2] 30
+[2018.12.16-19.38.38:625][798]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.16-19.38.38:626][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-19.38.38:668][798]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-19.38.38:668][798]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.16-19.38.38:708][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-19.38.38:767][799]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2018.12.16-19.38.39:960][867]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-19.39.43:151][922]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-19.39.43:207][922]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.16-19.39.43:208][922]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.16-19.39.43:218][922]LogPlayLevel: [PlayLevel] Compiling basicEnnemie before play...
+[2018.12.16-19.39.43:438][922]LogPlayLevel: PlayLevel: Blueprint regeneration took 229 ms (1 blueprints)
+[2018.12.16-19.39.43:438][922]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 16, 2018, 9:39:43 AM)
+[2018.12.16-19.39.43:438][922]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.16-19.39.43:452][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013998s)
+[2018.12.16-19.39.43:452][922]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.16-19.39.43:453][922]LogPlayLevel: PIE: World Init took: (0.000854s)
+[2018.12.16-19.39.43:453][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015043s)
+[2018.12.16-19.39.43:496][922]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.16-19.39.43:542][922]LogInit: FAudioDevice initialized.
+[2018.12.16-19.39.43:572][922]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.16-19.39.43:575][922]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.12.16-14.39.43
+[2018.12.16-19.39.43:575][922]LogWorld: Bringing up level for play took: 0.001585
+[2018.12.16-19.39.43:591][922]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.532
+[2018.12.16-19.39.43:591][922]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.16-19.39.46:375][ 80]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.39.46:775][104]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.39.47:175][128]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.39.47:575][152]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.39.50:626][335]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.39.50:826][347]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.39.51:026][359]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.39.51:226][371]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.39.51:426][383]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.39.51:626][395]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.39.51:826][407]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.39.52:025][419]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.39.52:225][431]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.39.52:425][443]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.39.52:626][455]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.39.52:825][467]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.39.53:025][479]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.39.53:225][491]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.39.53:426][503]LogBlueprintUserMessages: [basicEnnemie_2] 3
+[2018.12.16-19.39.53:710][520]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.16-19.39.53:710][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-19.39.53:743][520]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-19.39.53:744][520]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.16-19.39.53:781][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-19.39.53:841][521]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2018.12.16-19.39.54:784][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-19.40.37:476][424]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-19.40.37:534][424]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.16-19.40.37:534][424]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.16-19.40.37:646][424]LogPlayLevel: [PlayLevel] Compiling ennemies before play...
+[2018.12.16-19.40.37:664][424]LogPlayLevel: [PlayLevel]   Compiling basicEnnemie as a dependent...
+[2018.12.16-19.40.37:945][424]LogPlayLevel: PlayLevel: Blueprint regeneration took 411 ms (2 blueprints)
+[2018.12.16-19.40.37:945][424]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 16, 2018, 9:40:37 AM)
+[2018.12.16-19.40.37:945][424]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.16-19.40.37:959][424]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013703s)
+[2018.12.16-19.40.37:960][424]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.16-19.40.37:961][424]LogPlayLevel: PIE: World Init took: (0.001294s)
+[2018.12.16-19.40.37:961][424]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015148s)
+[2018.12.16-19.40.38:004][424]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.16-19.40.38:051][424]LogInit: FAudioDevice initialized.
+[2018.12.16-19.40.38:081][424]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.16-19.40.38:083][424]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.12.16-14.40.38
+[2018.12.16-19.40.38:083][424]LogWorld: Bringing up level for play took: 0.001733
+[2018.12.16-19.40.38:099][424]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.04
+[2018.12.16-19.40.38:099][424]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.16-19.40.40:716][572]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.40.41:332][609]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.40.41:849][640]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.40.42:249][664]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.40.42:932][705]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.40.44:416][794]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.40.44:599][805]LogBlueprintUserMessages: [basicEnnemie_2] 30
+[2018.12.16-19.40.44:799][817]LogBlueprintUserMessages: [basicEnnemie_2] 30
+[2018.12.16-19.40.44:999][829]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.40.44:999][829]LogBlueprintUserMessages: [basicEnnemie_2] 30
+[2018.12.16-19.40.45:199][841]LogBlueprintUserMessages: [basicEnnemie_2] 30
+[2018.12.16-19.40.45:399][853]LogBlueprintUserMessages: [basicEnnemie_2] 30
+[2018.12.16-19.40.45:599][865]LogBlueprintUserMessages: [basicEnnemie_2] 30
+[2018.12.16-19.40.45:799][877]LogBlueprintUserMessages: [basicEnnemie_2] 30
+[2018.12.16-19.40.45:999][889]LogBlueprintUserMessages: [basicEnnemie_2] 30
+[2018.12.16-19.40.48:917][ 64]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.16-19.40.48:917][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-19.40.48:952][ 64]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-19.40.48:952][ 64]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.16-19.40.48:990][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-19.40.49:061][ 65]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2018.12.16-19.40.49:750][102]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-19.41.23:498][758]LogSlate: Window 'wolfChar' being destroyed
+[2018.12.16-19.41.23:508][758]LogSlate: Window 'wolfChar' being destroyed
+[2018.12.16-19.41.27:227][954]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/basicEnnemieB141A1214772722A44A7698C11BEE820.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/NPCs/basicEnnemies_rename_/basicEnnemie.uasset'
+[2018.12.16-19.42.32:497][832]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-19.42.32:558][832]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.16-19.42.32:558][832]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.16-19.42.32:596][832]LogPlayLevel: [PlayLevel] Compiling ennemies before play...
+[2018.12.16-19.42.32:614][832]LogPlayLevel: [PlayLevel]   Compiling basicEnnemie as a dependent...
+[2018.12.16-19.42.32:893][832]LogPlayLevel: PlayLevel: Blueprint regeneration took 334 ms (2 blueprints)
+[2018.12.16-19.42.32:893][832]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 16, 2018, 9:42:32 AM)
+[2018.12.16-19.42.32:893][832]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.16-19.42.32:906][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013387s)
+[2018.12.16-19.42.32:907][832]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.16-19.42.32:908][832]LogPlayLevel: PIE: World Init took: (0.001200s)
+[2018.12.16-19.42.32:908][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014785s)
+[2018.12.16-19.42.32:951][832]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.16-19.42.32:998][832]LogInit: FAudioDevice initialized.
+[2018.12.16-19.42.33:034][832]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.16-19.42.33:036][832]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.12.16-14.42.33
+[2018.12.16-19.42.33:037][832]LogWorld: Bringing up level for play took: 0.001588
+[2018.12.16-19.42.33:053][832]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.006
+[2018.12.16-19.42.33:053][832]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.16-19.42.35:744][989]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.42.36:143][ 13]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.42.36:544][ 37]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.42.36:943][ 61]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.42.38:277][141]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.16-19.42.38:278][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-19.42.38:316][141]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-19.42.38:317][141]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.16-19.42.38:355][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-19.42.38:405][142]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2018.12.16-19.42.39:359][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-19.42.39:541][203]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/wolfChar.wolfChar
+[2018.12.16-19.43.11:879][ 57]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/ThirdPersonExampleMap_Auto22CC14AFF4081EA69FAAE3C8A872BB813.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2018.12.16-19.43.11:882][ 57]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.249
+[2018.12.16-19.43.11:883][ 57]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.249
+[2018.12.16-19.43.11:885][ 57]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/NPCs/basicEnnemies_rename_/basicEnnemie] ([1] browsable assets)...
+[2018.12.16-19.43.11:921][ 57]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/NPCs/basicEnnemies_rename_/basicEnnemie.basicEnnemie]
+[2018.12.16-19.43.11:921][ 57]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/NPCs/basicEnnemies_rename_/basicEnnemie]
+[2018.12.16-19.43.11:975][ 57]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/basicEnnemie_Auto2A38E355F41CDD1F30B7C7BAE2F2A6EAD.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/NPCs/basicEnnemies_rename_/basicEnnemie_Auto2.uasset'
+[2018.12.16-19.43.11:978][ 57]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/NPCs/ennemies] ([1] browsable assets)...
+[2018.12.16-19.43.11:978][ 57]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/NPCs/ennemies]
+[2018.12.16-19.43.12:057][ 57]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/ennemies_Auto26E02308C4B6F492B93E4118C8F49DF54.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/NPCs/ennemies_Auto2.uasset'
+[2018.12.16-19.43.12:058][ 57]LogFileHelpers: Auto-saving content packages took 0.174
+[2018.12.16-19.43.50:871][304]BlueprintLog: New page: Compile basicEnnemie
+[2018.12.16-19.43.52:198][358]BlueprintLog: New page: Compile ennemies
+[2018.12.16-19.43.54:420][458]BlueprintLog: New page: Compile basicEnnemie
+[2018.12.16-19.44.00:428][794]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.16-19.44.00:483][794]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.16-19.44.00:483][794]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.16-19.44.00:484][794]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 16, 2018, 9:44:00 AM)
+[2018.12.16-19.44.00:484][794]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.16-19.44.00:497][794]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012784s)
+[2018.12.16-19.44.00:497][794]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.16-19.44.00:497][794]LogPlayLevel: PIE: World Init took: (0.000476s)
+[2018.12.16-19.44.00:497][794]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013374s)
+[2018.12.16-19.44.00:541][794]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.16-19.44.00:588][794]LogInit: FAudioDevice initialized.
+[2018.12.16-19.44.00:620][794]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.16-19.44.00:622][794]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.12.16-14.44.00
+[2018.12.16-19.44.00:623][794]LogWorld: Bringing up level for play took: 0.001671
+[2018.12.16-19.44.00:638][794]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.421
+[2018.12.16-19.44.00:638][794]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.16-19.44.04:239][  4]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.04:239][  4]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.44.04:272][  6]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.04:306][  8]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.04:339][ 10]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.04:373][ 12]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.04:406][ 14]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.04:439][ 16]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.04:472][ 18]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.04:505][ 20]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.04:539][ 22]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.04:572][ 24]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.04:605][ 26]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.04:639][ 28]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.04:639][ 28]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.44.04:672][ 30]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.04:705][ 32]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.04:739][ 34]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.04:772][ 36]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.04:805][ 38]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.04:839][ 40]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.04:872][ 42]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.04:905][ 44]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.04:939][ 46]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.04:972][ 48]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.05:006][ 50]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.05:039][ 52]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.05:039][ 52]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.44.05:072][ 54]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.05:106][ 56]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.05:139][ 58]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.05:172][ 60]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.05:206][ 62]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.05:239][ 64]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.05:272][ 66]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.05:305][ 68]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.05:339][ 70]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.05:372][ 72]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.05:405][ 74]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.05:438][ 76]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.05:439][ 76]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.44.05:472][ 78]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.05:506][ 80]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.05:539][ 82]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.05:572][ 84]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.05:606][ 86]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.05:639][ 88]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.05:673][ 90]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.05:706][ 92]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.05:739][ 94]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.05:772][ 96]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.05:805][ 98]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.05:839][100]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.05:839][100]LogBlueprintUserMessages: [wolfChar_C_0] left
+[2018.12.16-19.44.05:872][102]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.05:905][104]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.05:939][106]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.05:972][108]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.06:006][110]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.06:038][112]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.06:072][114]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.06:106][116]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.06:139][118]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.06:172][120]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.06:205][122]LogBlueprintUserMessages: [basicEnnemie_2] Hello
+[2018.12.16-19.44.08:223][243]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.16-19.44.08:223][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-19.44.08:260][243]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.16-19.44.08:261][243]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.16-19.44.08:300][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.16-19.44.08:351][244]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2018.12.16-19.44.09:157][288]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-19.44.48:310][574]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/basicEnnemieE4A7235E41EA2BE755E0749D26BCAB2F.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/NPCs/basicEnnemies_rename_/basicEnnemie.uasset'
+[2018.12.16-19.44.48:702][595]BlueprintLog: New page: Compile basicEnnemie
+[2018.12.16-19.44.50:635][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/NPCs/ennemies" FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/NPCs/ennemies.uasset" SILENT=true
+[2018.12.16-19.44.50:715][693]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/ennemies7624E9AA403AFF6E068B8EB4D16D7292.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/NPCs/ennemies.uasset'
+[2018.12.16-19.46.44:448][ 82]BlueprintLog: New page: Compile ennemies
+[2018.12.16-19.46.44:948][ 82]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.16-19.46.44:948][ 82]LogBlueprint: Warning: [Compiler wolfChar] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.12.16-19.46.45:063][ 82]LogBlueprint: Warning: [Compiler wolfChar] [2477.39] Compile of wolfChar successful, but with 2 Warning(s) [in 595 ms] (/Game/ThirdPersonBP/Blueprints/wolfChar.wolfChar)
+[2018.12.16-19.46.48:734][200]BlueprintLog: New page: Compile ennemies
+[2018.12.16-19.46.48:908][200]LogClass: Warning: Type mismatch in waitingAction of ennemies_C - Previous (BoolProperty) Current(IntProperty) for package:  FObjectReader
+[2018.12.16-19.46.48:911][200]LogClass: Warning: Type mismatch in waitingAction of basicEnnemie_C - Previous (BoolProperty) Current(IntProperty) for package:  FObjectReader
+[2018.12.16-19.49.46:435][999]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ThirdPersonBP/Blueprints/NPCs/basicEnnemies_rename_/boy_anim_list/boy_Anim_hit_WeaponTwoHand_.boy_Anim_hit_WeaponTwoHand_
+[2018.12.16-19.49.46:449][999]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.16-19.49.46:512][999]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.16-19.49.46:989][999]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.12.16-19.54.16:931][119]LogSlate: Window 'wolfChar' being destroyed
+[2018.12.16-19.54.16:940][119]LogSlate: Window 'wolfChar' being destroyed
+[2018.12.16-19.54.45:944][692]BlueprintLog: New page: Compile ennemies
+[2018.12.16-19.54.46:041][692]LogBlueprint: Error: [Compiler basicEnnemie] Cannot override '::rotateToTarget' at  rotateToTarget  which was declared in a parent with a different signature
+[2018.12.16-19.54.46:057][692]LogBlueprint: Warning: [Compiler basicEnnemie] [2958.39] Compile of basicEnnemie failed. 1 Fatal Issue(s) 0 Warning(s) [in 91 ms] (/Game/ThirdPersonBP/Blueprints/NPCs/basicEnnemies_rename_/basicEnnemie.basicEnnemie)
+[2018.12.16-19.54.55:917][253]BlueprintLog: New page: Compile basicEnnemie
+[2018.12.16-19.54.55:946][253]LogBlueprint: Error: [Compiler basicEnnemie] Pin  Target  named target doesn't match any parameters of function rotateToTarget
+[2018.12.16-19.54.56:143][253]LogBlueprint: Warning: [Compiler basicEnnemie] [2968.47] Compile of basicEnnemie failed. 1 Fatal Issue(s) 0 Warning(s) [in 224 ms] (/Game/ThirdPersonBP/Blueprints/NPCs/basicEnnemies_rename_/basicEnnemie.basicEnnemie)
+[2018.12.16-19.55.02:794][645]BlueprintLog: New page: Compile basicEnnemie
+[2018.12.16-19.55.02:823][645]LogBlueprint: Error: [Compiler basicEnnemie] Pin  Target  named target doesn't match any parameters of function rotateToTarget
+[2018.12.16-19.55.03:017][645]LogBlueprint: Warning: [Compiler basicEnnemie] [2975.35] Compile of basicEnnemie failed. 1 Fatal Issue(s) 0 Warning(s) [in 223 ms] (/Game/ThirdPersonBP/Blueprints/NPCs/basicEnnemies_rename_/basicEnnemie.basicEnnemie)
+[2018.12.16-19.55.30:376][249]LogEditorTransaction: Undo Remove Parameter
+[2018.12.16-19.55.30:562][249]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.16-19.55.30:569][249]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.16-19.55.51:984][495]LogRenderer: Reallocating scene render targets to support 940x540 Format 10 NumSamples 1 (Frame:1).
+[2018.12.16-19.55.58:417][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-19.56.13:522][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.16-19.58.46:875][462]BlueprintLog: New page: Compile ennemies
+[2018.12.16-19.58.46:911][462]LogBlueprint: Warning: [Compiler basicEnnemie] Found a timeline with a conflicting name (Timeline_0_Template) - changed to Timeline_0_0.
+[2018.12.16-19.58.46:997][462]LogBlueprint: Error: [Compiler basicEnnemie] In use pin  Target  no longer exists on node  Rotate to Target . Please refresh node or break links to remove pin.
+[2018.12.16-19.58.47:015][462]LogBlueprint: Warning: [Compiler basicEnnemie] [3199.34] Compile of basicEnnemie failed. 1 Fatal Issue(s) 1 Warning(s) [in 111 ms] (/Game/ThirdPersonBP/Blueprints/NPCs/basicEnnemies_rename_/basicEnnemie.basicEnnemie)
+[2018.12.16-19.58.47:951][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/NPCs/ennemies" FILE="C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/NPCs/ennemies.uasset" SILENT=true
+[2018.12.16-19.58.48:066][490]LogSavePackage: Moving 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Saved/ennemies3067224849CC267248836A975EA601FE.tmp' to 'C:/Users/simon/Documents/Unreal Projects/wolfy 4.21/Content/ThirdPersonBP/Blueprints/NPCs/ennemies.uasset'
+[2018.12.16-19.59.23:109][456]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2018.12.16-19.59.23:642][456]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.533 s
+[2018.12.16-19.59.23:642][456]LogOutputDevice: Error: === Handled ensure: ===
+[2018.12.16-19.59.23:642][456]LogOutputDevice: Error: 
+[2018.12.16-19.59.23:642][456]LogOutputDevice: Error: Ensure condition failed: Template && (Template->GetOuter() == GeneratedClass) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\Blueprint.cpp] [Line: 1221]
+[2018.12.16-19.59.23:642][456]LogOutputDevice: Error: 
+[2018.12.16-19.59.23:642][456]LogOutputDevice: Error: Stack: 
+[2018.12.16-19.59.23:642][456]LogOutputDevice: Error: [Callstack] 0x00007ffa3a180bb6 UE4Editor-Engine.dll!UnknownFunction []
+[2018.12.16-19.59.23:642][456]LogOutputDevice: Error: [Callstack] 0x00007ffa2c3cd0d0 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.16-19.59.23:642][456]LogOutputDevice: Error: [Callstack] 0x00007ffa2c3796a8 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.16-19.59.23:642][456]LogOutputDevice: Error: [Callstack] 0x00007ffa2d4c719d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.16-19.59.23:642][456]LogOutputDevice: Error: [Callstack] 0x00007ffa2c410840 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.16-19.59.23:642][456]LogOutputDevice: Error: [Callstack] 0x00007ffa2c4100ef UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.16-19.59.23:642][456]LogOutputDevice: Error: [Callstack] 0x00007ffa2c5e894b UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.16-19.59.23:642][456]LogOutputDevice: Error: [Callstack] 0x00007ffa2c5a179b UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.16-19.59.23:642][456]LogOutputDevice: Error: [Callstack] 0x00007ffa2ac2d1f8 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.12.16-19.59.23:642][456]LogOutputDevice: Error: [Callstack] 0x00007ffa2acbeb19 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.12.16-19.59.23:642][456]LogOutputDevice: Error: [Callstack] 0x00007ffa2ac653ea UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.12.16-19.59.23:642][456]LogOutputDevice: Error: [Callstack] 0x00007ffa2abe418f UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.12.16-19.59.23:643][456]LogOutputDevice: Error: [Callstack] 0x00007ffa736a77d2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.16-19.59.23:643][456]LogOutputDevice: Error: [Callstack] 0x00007ffa7349694c UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.16-19.59.23:643][456]LogOutputDevice: Error: [Callstack] 0x00007ffa7351697c UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.16-19.59.23:643][456]LogOutputDevice: Error: [Callstack] 0x00007ffa73509a36 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.16-19.59.23:643][456]LogOutputDevice: Error: [Callstack] 0x00007ffa79b1daa4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.16-19.59.23:643][456]LogOutputDevice: Error: [Callstack] 0x00007ffa79b10de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.16-19.59.23:643][456]LogOutputDevice: Error: [Callstack] 0x00007ffa79b201eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.16-19.59.23:643][456]LogOutputDevice: Error: [Callstack] 0x00007ffa79b0ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.16-19.59.23:643][456]LogOutputDevice: Error: [Callstack] 0x00007ffab4d96d41 USER32.dll!UnknownFunction []
+[2018.12.16-19.59.23:643][456]LogOutputDevice: Error: [Callstack] 0x00007ffab4d96713 USER32.dll!UnknownFunction []
+[2018.12.16-19.59.23:643][456]LogOutputDevice: Error: [Callstack] 0x00007ffa79b21746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.16-19.59.23:643][456]LogOutputDevice: Error: [Callstack] 0x00007ff792e45546 UE4Editor.exe!UnknownFunction []
+[2018.12.16-19.59.23:643][456]LogOutputDevice: Error: [Callstack] 0x00007ff792e5596c UE4Editor.exe!UnknownFunction []
+[2018.12.16-19.59.23:643][456]LogOutputDevice: Error: [Callstack] 0x00007ff792e559ea UE4Editor.exe!UnknownFunction []
+[2018.12.16-19.59.23:643][456]LogOutputDevice: Error: [Callstack] 0x00007ff792e648da UE4Editor.exe!UnknownFunction []
+[2018.12.16-19.59.23:643][456]LogOutputDevice: Error: [Callstack] 0x00007ff792e6659a UE4Editor.exe!UnknownFunction []
+[2018.12.16-19.59.23:643][456]LogOutputDevice: Error: [Callstack] 0x00007ffab4cd3034 KERNEL32.DLL!UnknownFunction []
+[2018.12.16-19.59.23:643][456]LogOutputDevice: Error: [Callstack] 0x00007ffab7743691 ntdll.dll!UnknownFunction []
+[2018.12.16-19.59.23:643][456]LogOutputDevice: Error: 
+[2018.12.16-19.59.23:653][456]LogStats:                SubmitErrorReport -  0.000 s
